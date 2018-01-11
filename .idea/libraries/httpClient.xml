@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="httpClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/axiom-all-1.2.12_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-httpclient-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fluent-hc-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-cache-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-win-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpmime-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdom-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-platform-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woden-api-1.0M9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woden-impl-commons-1.0M9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woden-impl-dom-1.0M9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wsdl4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xfire-all-1.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
