@@ -1,0 +1,531 @@
+<wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:tns="http://tempuri.org/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" name="ScyxKtService" targetNamespace="http://tempuri.org/">
+    <wsdl:types>
+        <xsd:schema targetNamespace="http://tempuri.org/Imports">
+            <xsd:import schemaLocation="http://10.89.2.102/ktwcf/ScyxKtService.svc?xsd=xsd0" namespace="http://tempuri.org/"/>
+            <xsd:import schemaLocation="http://10.89.2.102/ktwcf/ScyxKtService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/"/>
+        </xsd:schema>
+    </wsdl:types>
+    <wsdl:message name="IScyxKtService_JhcDailyData_InputMessage">
+        <wsdl:part name="parameters" element="tns:JhcDailyData"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_JhcDailyData_OutputMessage">
+        <wsdl:part name="parameters" element="tns:JhcDailyDataResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqAnnualOutput_InputMessage">
+        <wsdl:part name="parameters" element="tns:TrqAnnualOutput"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqAnnualOutput_OutputMessage">
+        <wsdl:part name="parameters" element="tns:TrqAnnualOutputResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqMonthlyPlan_InputMessage">
+        <wsdl:part name="parameters" element="tns:TrqMonthlyPlan"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqMonthlyPlan_OutputMessage">
+        <wsdl:part name="parameters" element="tns:TrqMonthlyPlanResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_InLargeNetworks_InputMessage">
+        <wsdl:part name="parameters" element="tns:InLargeNetworks"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_InLargeNetworks_OutputMessage">
+        <wsdl:part name="parameters" element="tns:InLargeNetworksResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_PourTransmission_InputMessage">
+        <wsdl:part name="parameters" element="tns:PourTransmission"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_PourTransmission_OutputMessage">
+        <wsdl:part name="parameters" element="tns:PourTransmissionResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqOutsourcing_InputMessage">
+        <wsdl:part name="parameters" element="tns:TrqOutsourcing"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqOutsourcing_OutputMessage">
+        <wsdl:part name="parameters" element="tns:TrqOutsourcingResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_PetroleumProduction_InputMessage">
+        <wsdl:part name="parameters" element="tns:PetroleumProduction"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_PetroleumProduction_OutputMessage">
+        <wsdl:part name="parameters" element="tns:PetroleumProductionResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqJingJingQi_InputMessage">
+        <wsdl:part name="parameters" element="tns:TrqJingJingQi"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqJingJingQi_OutputMessage">
+        <wsdl:part name="parameters" element="tns:TrqJingJingQiResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_MonthlyNaturalGasproDuction_InputMessage">
+        <wsdl:part name="parameters" element="tns:MonthlyNaturalGasproDuction"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_MonthlyNaturalGasproDuction_OutputMessage">
+        <wsdl:part name="parameters" element="tns:MonthlyNaturalGasproDuctionResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_DrillingData_InputMessage">
+        <wsdl:part name="parameters" element="tns:DrillingData"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_DrillingData_OutputMessage">
+        <wsdl:part name="parameters" element="tns:DrillingDataResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_JSTscldt_InputMessage">
+        <wsdl:part name="parameters" element="tns:JSTscldt"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_JSTscldt_OutputMessage">
+        <wsdl:part name="parameters" element="tns:JSTscldtResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_JSZycldt_InputMessage">
+        <wsdl:part name="parameters" element="tns:JSZycldt"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_JSZycldt_OutputMessage">
+        <wsdl:part name="parameters" element="tns:JSZycldtResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_HGQtscdt_InputMessage">
+        <wsdl:part name="parameters" element="tns:HGQtscdt"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_HGQtscdt_OutputMessage">
+        <wsdl:part name="parameters" element="tns:HGQtscdtResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_HGThscdt_InputMessage">
+        <wsdl:part name="parameters" element="tns:HGThscdt"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_HGThscdt_OutputMessage">
+        <wsdl:part name="parameters" element="tns:HGThscdtResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSNdbs_InputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSNdbs"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSNdbs_OutputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSNdbsResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSZjdt_InputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSZjdt"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSZjdt_OutputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSZjdtResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSZjrb_InputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSZjrb"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSZjrb_OutputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSZjrbResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSSydt_InputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSSydt"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSSydt_OutputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSSydtResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSSyrb_InputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSSyrb"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSSyrb_OutputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSSyrbResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSZjrbByDwdmRq_InputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSZjrbByDwdmRq"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSZjrbByDwdmRq_OutputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSZjrbByDwdmRqResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSSyrbByDwdmRq_InputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSSyrbByDwdmRq"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_CNJSSyrbByDwdmRq_OutputMessage">
+        <wsdl:part name="parameters" element="tns:CNJSSyrbByDwdmRqResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_GetScyxUnit_InputMessage">
+        <wsdl:part name="parameters" element="tns:GetScyxUnit"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_GetScyxUnit_OutputMessage">
+        <wsdl:part name="parameters" element="tns:GetScyxUnitResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqAnnualOutputNew_InputMessage">
+        <wsdl:part name="parameters" element="tns:TrqAnnualOutputNew"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqAnnualOutputNew_OutputMessage">
+        <wsdl:part name="parameters" element="tns:TrqAnnualOutputNewResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqMonthlyPlanNew_InputMessage">
+        <wsdl:part name="parameters" element="tns:TrqMonthlyPlanNew"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_TrqMonthlyPlanNew_OutputMessage">
+        <wsdl:part name="parameters" element="tns:TrqMonthlyPlanNewResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_MonthlyNaturalGasproDuctionNew_InputMessage">
+        <wsdl:part name="parameters" element="tns:MonthlyNaturalGasproDuctionNew"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_MonthlyNaturalGasproDuctionNew_OutputMessage">
+        <wsdl:part name="parameters" element="tns:MonthlyNaturalGasproDuctionNewResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_WellZjData_InputMessage">
+        <wsdl:part name="parameters" element="tns:WellZjData"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_WellZjData_OutputMessage">
+        <wsdl:part name="parameters" element="tns:WellZjDataResponse"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_WellSjData_InputMessage">
+        <wsdl:part name="parameters" element="tns:WellSjData"/>
+    </wsdl:message>
+    <wsdl:message name="IScyxKtService_WellSjData_OutputMessage">
+        <wsdl:part name="parameters" element="tns:WellSjDataResponse"/>
+    </wsdl:message>
+    <wsdl:portType name="IScyxKtService">
+        <wsdl:operation name="JhcDailyData">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/JhcDailyData" message="tns:IScyxKtService_JhcDailyData_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/JhcDailyDataResponse" message="tns:IScyxKtService_JhcDailyData_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="TrqAnnualOutput">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/TrqAnnualOutput" message="tns:IScyxKtService_TrqAnnualOutput_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/TrqAnnualOutputResponse" message="tns:IScyxKtService_TrqAnnualOutput_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="TrqMonthlyPlan">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/TrqMonthlyPlan" message="tns:IScyxKtService_TrqMonthlyPlan_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/TrqMonthlyPlanResponse" message="tns:IScyxKtService_TrqMonthlyPlan_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="InLargeNetworks">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/InLargeNetworks" message="tns:IScyxKtService_InLargeNetworks_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/InLargeNetworksResponse" message="tns:IScyxKtService_InLargeNetworks_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="PourTransmission">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/PourTransmission" message="tns:IScyxKtService_PourTransmission_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/PourTransmissionResponse" message="tns:IScyxKtService_PourTransmission_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="TrqOutsourcing">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/TrqOutsourcing" message="tns:IScyxKtService_TrqOutsourcing_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/TrqOutsourcingResponse" message="tns:IScyxKtService_TrqOutsourcing_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="PetroleumProduction">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/PetroleumProduction" message="tns:IScyxKtService_PetroleumProduction_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/PetroleumProductionResponse" message="tns:IScyxKtService_PetroleumProduction_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="TrqJingJingQi">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/TrqJingJingQi" message="tns:IScyxKtService_TrqJingJingQi_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/TrqJingJingQiResponse" message="tns:IScyxKtService_TrqJingJingQi_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="MonthlyNaturalGasproDuction">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/MonthlyNaturalGasproDuction" message="tns:IScyxKtService_MonthlyNaturalGasproDuction_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/MonthlyNaturalGasproDuctionResponse" message="tns:IScyxKtService_MonthlyNaturalGasproDuction_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="DrillingData">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/DrillingData" message="tns:IScyxKtService_DrillingData_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/DrillingDataResponse" message="tns:IScyxKtService_DrillingData_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="JSTscldt">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/JSTscldt" message="tns:IScyxKtService_JSTscldt_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/JSTscldtResponse" message="tns:IScyxKtService_JSTscldt_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="JSZycldt">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/JSZycldt" message="tns:IScyxKtService_JSZycldt_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/JSZycldtResponse" message="tns:IScyxKtService_JSZycldt_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="HGQtscdt">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/HGQtscdt" message="tns:IScyxKtService_HGQtscdt_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/HGQtscdtResponse" message="tns:IScyxKtService_HGQtscdt_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="HGThscdt">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/HGThscdt" message="tns:IScyxKtService_HGThscdt_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/HGThscdtResponse" message="tns:IScyxKtService_HGThscdt_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSNdbs">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/CNJSNdbs" message="tns:IScyxKtService_CNJSNdbs_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/CNJSNdbsResponse" message="tns:IScyxKtService_CNJSNdbs_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSZjdt">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/CNJSZjdt" message="tns:IScyxKtService_CNJSZjdt_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/CNJSZjdtResponse" message="tns:IScyxKtService_CNJSZjdt_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSZjrb">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/CNJSZjrb" message="tns:IScyxKtService_CNJSZjrb_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/CNJSZjrbResponse" message="tns:IScyxKtService_CNJSZjrb_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSSydt">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/CNJSSydt" message="tns:IScyxKtService_CNJSSydt_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/CNJSSydtResponse" message="tns:IScyxKtService_CNJSSydt_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSSyrb">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/CNJSSyrb" message="tns:IScyxKtService_CNJSSyrb_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/CNJSSyrbResponse" message="tns:IScyxKtService_CNJSSyrb_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSZjrbByDwdmRq">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/CNJSZjrbByDwdmRq" message="tns:IScyxKtService_CNJSZjrbByDwdmRq_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/CNJSZjrbByDwdmRqResponse" message="tns:IScyxKtService_CNJSZjrbByDwdmRq_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSSyrbByDwdmRq">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/CNJSSyrbByDwdmRq" message="tns:IScyxKtService_CNJSSyrbByDwdmRq_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/CNJSSyrbByDwdmRqResponse" message="tns:IScyxKtService_CNJSSyrbByDwdmRq_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="GetScyxUnit">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/GetScyxUnit" message="tns:IScyxKtService_GetScyxUnit_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/GetScyxUnitResponse" message="tns:IScyxKtService_GetScyxUnit_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="TrqAnnualOutputNew">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/TrqAnnualOutputNew" message="tns:IScyxKtService_TrqAnnualOutputNew_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/TrqAnnualOutputNewResponse" message="tns:IScyxKtService_TrqAnnualOutputNew_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="TrqMonthlyPlanNew">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/TrqMonthlyPlanNew" message="tns:IScyxKtService_TrqMonthlyPlanNew_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/TrqMonthlyPlanNewResponse" message="tns:IScyxKtService_TrqMonthlyPlanNew_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="MonthlyNaturalGasproDuctionNew">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/MonthlyNaturalGasproDuctionNew" message="tns:IScyxKtService_MonthlyNaturalGasproDuctionNew_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/MonthlyNaturalGasproDuctionNewResponse" message="tns:IScyxKtService_MonthlyNaturalGasproDuctionNew_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="WellZjData">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/WellZjData" message="tns:IScyxKtService_WellZjData_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/WellZjDataResponse" message="tns:IScyxKtService_WellZjData_OutputMessage"/>
+        </wsdl:operation>
+        <wsdl:operation name="WellSjData">
+            <wsdl:input wsaw:Action="http://tempuri.org/IScyxKtService/WellSjData" message="tns:IScyxKtService_WellSjData_InputMessage"/>
+            <wsdl:output wsaw:Action="http://tempuri.org/IScyxKtService/WellSjDataResponse" message="tns:IScyxKtService_WellSjData_OutputMessage"/>
+        </wsdl:operation>
+    </wsdl:portType>
+    <wsdl:binding name="BasicHttpBinding_IScyxKtService" type="tns:IScyxKtService">
+        <soap:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+        <wsdl:operation name="JhcDailyData">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/JhcDailyData" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="TrqAnnualOutput">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/TrqAnnualOutput" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="TrqMonthlyPlan">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/TrqMonthlyPlan" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="InLargeNetworks">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/InLargeNetworks" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="PourTransmission">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/PourTransmission" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="TrqOutsourcing">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/TrqOutsourcing" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="PetroleumProduction">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/PetroleumProduction" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="TrqJingJingQi">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/TrqJingJingQi" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="MonthlyNaturalGasproDuction">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/MonthlyNaturalGasproDuction" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="DrillingData">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/DrillingData" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="JSTscldt">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/JSTscldt" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="JSZycldt">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/JSZycldt" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="HGQtscdt">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/HGQtscdt" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="HGThscdt">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/HGThscdt" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSNdbs">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/CNJSNdbs" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSZjdt">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/CNJSZjdt" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSZjrb">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/CNJSZjrb" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSSydt">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/CNJSSydt" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSSyrb">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/CNJSSyrb" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSZjrbByDwdmRq">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/CNJSZjrbByDwdmRq" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="CNJSSyrbByDwdmRq">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/CNJSSyrbByDwdmRq" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="GetScyxUnit">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/GetScyxUnit" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="TrqAnnualOutputNew">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/TrqAnnualOutputNew" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="TrqMonthlyPlanNew">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/TrqMonthlyPlanNew" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="MonthlyNaturalGasproDuctionNew">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/MonthlyNaturalGasproDuctionNew" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="WellZjData">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/WellZjData" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="WellSjData">
+            <soap:operation soapAction="http://tempuri.org/IScyxKtService/WellSjData" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:service name="ScyxKtService">
+        <wsdl:port name="BasicHttpBinding_IScyxKtService" binding="tns:BasicHttpBinding_IScyxKtService">
+            <soap:address location="http://10.89.2.102/ktwcf/ScyxKtService.svc"/>
+        </wsdl:port>
+    </wsdl:service>
+</wsdl:definitions>
