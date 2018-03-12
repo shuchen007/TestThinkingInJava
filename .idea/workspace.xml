@@ -28,68 +28,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Subject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/Subject.java">
+      <file leaf-file-name="SerDemo04.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hao/class14/SerDemo04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.4676259">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#223#231#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/Observer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39568347">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryObserver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/BinaryObserver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OctalObserver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/OctalObserver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HexaObserver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/HexaObserver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObserverPatternDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/ObserverPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -112,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/hao/operation03/Apple.java" />
         <option value="$PROJECT_DIR$/src/com/hao/Control04/TestRandom.java" />
         <option value="$PROJECT_DIR$/src/com/hao/date/TestDate.java" />
         <option value="$PROJECT_DIR$/src/com/hao/innerClass10/Main.java" />
@@ -163,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/Subject.java" />
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/BinaryObserver.java" />
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/Observer.java" />
+        <option value="$PROJECT_DIR$/src/com/hao/class14/SerDemo04.java" />
       </list>
     </option>
   </component>
@@ -267,28 +213,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designPattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -305,12 +229,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\richfit\working\testThinkingInJava\src\com\hao" />
-      <recent name="E:\richfit\working\testThinkingInJava\src\com\hao\collection11" />
-      <recent name="E:\richfit\working\testThinkingInJava\src\com\hao\String13" />
-      <recent name="D:\from_out\testThinkingInJava" />
-      <recent name="D:\from_out\testThinkingInJava\lib" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\1-working\TestThinkingInJava\src\com\hao\class14" />
+      <recent name="F:\1-working\TestThinkingInJava\src\com\hao\designPattern\decoratorPattern" />
+      <recent name="E:\richfit\working\testThinkingInJava\src\util" />
+      <recent name="E:\richfit\working\testThinkingInJava\poi" />
+      <recent name="E:\richfit\working\testThinkingInJava\lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.hao.designPattern.ObserverPattern" />
@@ -319,12 +243,12 @@
       <recent name="com.hao.designPattern.factoryPattern" />
       <recent name="com.hao.innerClass10" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\1-working\TestThinkingInJava\src\com\hao\designPattern\decoratorPattern" />
-      <recent name="E:\richfit\working\testThinkingInJava\src\util" />
-      <recent name="E:\richfit\working\testThinkingInJava\poi" />
-      <recent name="E:\richfit\working\testThinkingInJava\lib" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\richfit\working\testThinkingInJava\src\com\hao" />
+      <recent name="E:\richfit\working\testThinkingInJava\src\com\hao\collection11" />
+      <recent name="E:\richfit\working\testThinkingInJava\src\com\hao\String13" />
+      <recent name="D:\from_out\testThinkingInJava" />
+      <recent name="D:\from_out\testThinkingInJava\lib" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ObserverPatternDemo">
@@ -939,11 +863,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291212000" />
+    <option name="totallyTimeSpent" value="292447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -953,7 +877,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23146747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23146747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1029,20 +953,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/hao/innerClass10/TestInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/collection11/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4465753">
-          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hao/String13/TestNull.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1383,29 +1293,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="false" />
+            <element signature="e#407#408#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39568347">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2877698">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17266187">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/class14/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43165466">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/class14/SerDemo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4676259">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="e#223#231#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
