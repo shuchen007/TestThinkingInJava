@@ -22,7 +22,6 @@ public class ExcelUtil {
     static String[] dataRows;
     static int[] rowRecord;
 
-
     /**
      * 设置表中单元格格式
      * @param hssfWorkBook
