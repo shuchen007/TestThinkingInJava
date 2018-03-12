@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Created by Administrator on 2017/7/29.
  */
-class A extends B{
+class A extends B {
     static {
         System.out.println(".A");
     }

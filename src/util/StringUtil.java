@@ -68,8 +68,8 @@ public class StringUtil {
         repNum.get(0).put("十", "a");
         repNum.get(0).put("百", "b");
         repNum.get(0).put("千", "c");
-        repNum.get(0).put("万", "A");
-        repNum.get(0).put("亿", "B");
+        repNum.get(0).put("万", "A1");
+        repNum.get(0).put("亿", "B1");
         repNum.get(0).put("兆", "C");
         repNum.get(1).put("万亿", "C");
 

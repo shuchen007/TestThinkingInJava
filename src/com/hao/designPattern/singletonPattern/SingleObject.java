@@ -11,14 +11,14 @@ public class SingleObject {
     /*1、单例类只能有一个实例。
       2、单例类必须自己创建自己的唯一实例。
       3、单例类必须给所有其他对象提供这一实例。*/
-    private static final SingleObject instance = new SingleObject();
+    private static final SingleObject INSTANCE = new SingleObject();
 
     //让构造函数为 private，这样该类就不会被实例化
     private SingleObject(){}
 
     //获取唯一可用的对象
     public static SingleObject getInstance(){
-        return instance;
+        return INSTANCE;
     }
 
     public void showMessage(){
