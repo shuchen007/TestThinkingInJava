@@ -153,7 +153,6 @@
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/CommandPattern/Broker.java" />
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/CommandPattern/CommandPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/decoratorPattern/DecoratorPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/Observer.java" />
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/decoratorPattern/ShapeDecorator.java" />
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/CommandPattern/ShapeDecorator.java" />
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/decoratorPattern/RedShapeDecorator.java" />
@@ -163,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/ObserverPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/Subject.java" />
         <option value="$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/BinaryObserver.java" />
+        <option value="$PROJECT_DIR$/src/com/hao/designPattern/ObserverPattern/Observer.java" />
       </list>
     </option>
   </component>
@@ -939,7 +939,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291206000" />
+    <option name="totallyTimeSpent" value="291212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
