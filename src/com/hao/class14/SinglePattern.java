@@ -6,14 +6,14 @@ package com.hao.class14;
  * @描述
  */
 public class SinglePattern {
-    private static final SinglePattern SINGLE_PATTERN = new SinglePattern();
-    public SinglePattern getSinglePattern(){
+    private static SinglePattern SINGLE_PATTERN = new SinglePattern();
+    public static SinglePattern getSinglePattern(){
         return SINGLE_PATTERN;
     }
     static {
         System.out.println("静态块");
     }
-    public SinglePattern() {
+    private SinglePattern() {
         System.out.println("构造");
     }
 

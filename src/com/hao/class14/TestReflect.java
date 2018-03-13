@@ -1,54 +1,29 @@
 package com.hao.class14;
 
-<<<<<<< HEAD
-=======
+import java.lang.reflect.Method;
+
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
->>>>>>> b0b1d8005bce3f48aa8f3b9b56d54ca4077be94d
 import java.util.Arrays;
 
 /**
  * Created by Administrator on 2017/7/29.
  */
-<<<<<<< HEAD
-class A extends B {
-=======
-class A extends B{
->>>>>>> b0b1d8005bce3f48aa8f3b9b56d54ca4077be94d
-    static {
-        System.out.println(".A");
-    }
-}
 class B{
     static{
         System.out.println("B");
     }
     public String x(){return  "xx";}
 }
+class A extends B{
+    static {
+        System.out.println(".A");
+    }
+}
+
 public class TestReflect {
     public static void main(String[] args) throws IllegalAccessException, InstantiationException {
-<<<<<<< HEAD
-        new A();
-        try {
-            //通过泛型新建对象。Class.forName()和A.class.h
-            Class<A> a = A.class;
-//            Class<A> a = Class.forName("com.hao.class14.A");
-            System.out.println("do="+a.getName());
-            A b= a.newInstance();
-            System.out.println("do="+b.x());
-
-            Class c = Class.forName("com.hao.class14.A");
-            try {
-                Object obj = c.getSuperclass().newInstance();
-=======
-        int loopTime = 50000;
-        Integer i = 0;
-        long startTime = System.currentTimeMillis();
-        for (int j = 0; j < loopTime; j++){
-            String str = String.valueOf(i);
-        }
-        System.out.println("String.valueOf()：" + (System.currentTimeMillis() - startTime) + "ms");
 //        new A();
         try {
             //通过泛型新建对象。Class.forName()和A.class.h
@@ -91,7 +66,6 @@ public class TestReflect {
             Class c = Class.forName("com.hao.class14.A");
             try {
                 Object obj = c.getSuperclass().newInstance();//需要默认的构造方法。
->>>>>>> b0b1d8005bce3f48aa8f3b9b56d54ca4077be94d
                 Class c1 = obj.getClass();
                 System.out.println(Arrays.toString(c1.getDeclaredMethods()));
             } catch (InstantiationException e) {

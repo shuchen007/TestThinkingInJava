@@ -1,5 +1,7 @@
 package com.hao.designPattern.singletonPattern;
 
+import java.lang.reflect.Constructor;
+
 /**
  * Created by sunhao on 2018/1/12.
  *
@@ -11,7 +13,7 @@ public class SingleObject {
     /*1、单例类只能有一个实例。
       2、单例类必须自己创建自己的唯一实例。
       3、单例类必须给所有其他对象提供这一实例。*/
-    private static final SingleObject INSTANCE = new SingleObject();
+    private static  SingleObject INSTANCE = new SingleObject();
 
     //让构造函数为 private，这样该类就不会被实例化
     private SingleObject(){}
@@ -24,4 +26,5 @@ public class SingleObject {
     public void showMessage(){
         System.out.println("Hello World!");
     }
+
 }
