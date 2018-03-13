@@ -7,7 +7,7 @@ import java.util.*;
  */
 public class CollectionsSort {
     public static void main(String[] args) {
-        List<String> listout = new LinkedList();
+        LinkedList<String> listout = new LinkedList();
         listout.add(0,"dong");
         listout.add(1,"pig");
         listout.add(2,"app");
