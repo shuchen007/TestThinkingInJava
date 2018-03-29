@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="951b6483-a364-4548-9451-e7bb7d0039e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/class14/Father.java" afterPath="$PROJECT_DIR$/src/com/hao/class14/Father.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/class14/Son.java" afterPath="$PROJECT_DIR$/src/com/hao/class14/Son.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/collection11/Apple.java" afterPath="$PROJECT_DIR$/src/com/hao/collection11/Apple.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/innerClass10/TestInnerClass.java" afterPath="$PROJECT_DIR$/src/com/hao/innerClass10/TestInnerClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="testThinkingInJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,7 +79,7 @@
         <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.39534885">
-              <caret line="351" column="43" selection-start-line="351" selection-start-column="43" selection-end-line="351" selection-end-column="43" />
+              <caret line="351" column="60" selection-start-line="351" selection-start-column="60" selection-end-line="351" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -1002,7 +998,7 @@
       <workItem from="1520903620995" duration="757000" />
       <workItem from="1520924195028" duration="5339000" />
       <workItem from="1521081240379" duration="474000" />
-      <workItem from="1522286835006" duration="6929000" />
+      <workItem from="1522286835006" duration="7942000" />
     </task>
     <servers />
   </component>
@@ -1039,7 +1035,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="317356000" />
+    <option name="totallyTimeSpent" value="318369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -1052,7 +1048,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43589744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43589744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23146747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1548,7 +1544,7 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39534885">
-          <caret line="351" column="43" selection-start-line="351" selection-start-column="43" selection-end-line="351" selection-end-column="43" />
+          <caret line="351" column="60" selection-start-line="351" selection-start-column="60" selection-end-line="351" selection-end-column="60" />
           <folding />
         </state>
       </provider>
