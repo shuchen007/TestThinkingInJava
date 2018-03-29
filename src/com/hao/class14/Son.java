@@ -14,9 +14,12 @@ public String ss;
         System.out.println("初始化son");
     }
     Son() {
+        super("d");//Java的规定：子类继承父类，子类的构造方法必须调用super（）即父类的构造方法，而且必须放在构造方法的第一行。
+
     }
      public Son(String x) {
-    }
+         super("df");
+     }
 
     public static void main(String[] args) {
         ArrayList list = new ArrayList();
@@ -27,8 +30,12 @@ public String ss;
         }
         System.out.println("1");
     }
+<<<<<<< HEAD
 
     public String do2(){
+=======
+     String do2(){
+>>>>>>> 910c0c6b97eeea49cdf6d7099d38dfcb98804b12
         System.out.println("do son2!");
         return  "doxx";
     }
