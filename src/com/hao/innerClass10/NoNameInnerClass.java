@@ -9,6 +9,7 @@ import java.util.*;
  * Created by Administrator on 2017/9/16.
  */
 public class NoNameInnerClass {
+    //静态内部类和匿名内部类
     static class MyComparator implements Comparator{
         @Override
         public int compare(Object o1, Object o2) {

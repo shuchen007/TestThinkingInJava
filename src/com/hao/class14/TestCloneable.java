@@ -9,7 +9,7 @@ import com.hao.collection11.Apple;
  */
 public class TestCloneable {
 	public static void main(String[] args) throws CloneNotSupportedException {
-		Stutend stutend1 = new Stutend();
+		Stutend stutend1 = new TestCloneable().new Stutend();
 		stutend1.setAge(34);
 		stutend1.setName("fd");
 		System.out.println(stutend1.getAge());
@@ -20,29 +20,29 @@ public class TestCloneable {
 		System.out.println(stutend2.getAge());
 		System.out.println(stutend2.getAge());
 	}
-}
-class Stutend implements Cloneable{
-	private String name;
-	private int age;
-	public Object clone() throws CloneNotSupportedException
-	{
-		return super.clone();
-	}
-	protected native String ds() throws Exception;
+	class Stutend implements Cloneable{
+		private String name;
+		private int age;
+		public Object clone() throws CloneNotSupportedException
+		{
+			return super.clone();
+		}
+		protected native String ds() throws Exception;
 
-	public String getName() {
-		return name;
-	}
+		public String getName() {
+			return name;
+		}
 
-	public void setName(String name) {
-		this.name = name;
-	}
+		public void setName(String name) {
+			this.name = name;
+		}
 
-	public int getAge() {
-		return age;
-	}
+		public int getAge() {
+			return age;
+		}
 
-	public void setAge(int age) {
-		this.age = age;
+		public void setAge(int age) {
+			this.age = age;
+		}
 	}
 }

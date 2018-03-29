@@ -48,14 +48,14 @@ public class TestNull {
         if(y1.toString()!="a") System.out.println("false1");//false
 
         //测试list的null和" ",new ArrayList后为空。
-        List<Apple> list = new ArrayList<Apple>();
+        List<Apple> list = new LinkedList<Apple>();
         Apple a1 = new Apple();
         Apple a2 = new Apple();
         a1.setA("3");
         a2.setA("2");
         list.add(a1);
         list.add(a2);
-        Collections.sort(list, new Comparator<Apple>() {
+        Collections.sort(list, new Comparator<Apple>() {//匿名内部类
             @Override
             public int compare(Apple o1, Apple o2) {
                 return o1.getA().compareTo(o2.getA());
