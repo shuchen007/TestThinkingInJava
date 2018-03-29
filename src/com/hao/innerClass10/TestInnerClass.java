@@ -25,6 +25,7 @@ public class TestInnerClass {
             System.out.println("dog1"+p1);
         }
     }
+    //成员内部类
     class Apple2{
         void a(){
             System.out.println("dog2"+new Apple1());
