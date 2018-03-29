@@ -1,5 +1,9 @@
 package com.hao.class14;
 
+
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by Administrator on 2018/3/8.
  */
@@ -15,8 +19,15 @@ public String ss;
     }
 
     public static void main(String[] args) {
+        ArrayList list = new ArrayList();
+        list.add("a");
+        list.add("2");
+        for (Object x : list) {
+            System.out.println(x.toString());
+        }
         System.out.println("1");
     }
+
     public String do2(){
         System.out.println("do son2!");
         return  "doxx";

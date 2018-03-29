@@ -27,15 +27,15 @@ public class TestReflect {
 //        new A();
         try {
             //通过泛型新建对象。Class.forName()和A.class.h
-            Class<Son> a = Son.class;
+//            Class<Son> a = Son.class;
 //            Class dd = a.getClass();
-//            Class = Class.forName("com.hao.class14.Son");
+            Class a= Class.forName("com.hao.class14.Son");
             Class<?> a1 = Integer.TYPE;
 
 
             System.out.println("do="+a.getName());
             //创建新的对象。
-            Father b=  a.newInstance();
+            Father b= (Father) a.newInstance();
             if(b instanceof Son){//向下转型
                 Son son = (Son)b;
             }

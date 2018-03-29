@@ -25,9 +25,9 @@ public class TestMap {
             }
             //TreeMap 自动有序
             Map map2 = new TreeMap();
-            map2.put("1", "张三");
+            map2.put("fd", "张三");
             map2.put("3", "李四");
-            map2.put("2", "王五");
+            map2.put("ac", "王五");
             map2.put("4", "赵六");
             it = null;
             System.out.println("TreeMap(自动有序序):"+map2);
@@ -41,9 +41,9 @@ public class TestMap {
 
             //HashMap 无序
             Map map = new HashMap();
-            map.put("2", "张三");
+            map.put("fd", "张三");
             map.put("4", "李四");
-            map.put("3", "王五");
+            map.put("ac", "王五");
             map.put("1", "赵六");
             it = null;
             System.out.println("HashMap(无序):"+map);

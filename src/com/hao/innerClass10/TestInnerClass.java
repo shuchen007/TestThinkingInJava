@@ -12,6 +12,7 @@ public class TestInnerClass {
         TestInnerClass.Apple1 d1 = new TestInnerClass().new Apple1();
         Apple3 d3 = new Apple3();
         d1.a();
+        d.a();
         d3.a();
 
         apples.add(d);

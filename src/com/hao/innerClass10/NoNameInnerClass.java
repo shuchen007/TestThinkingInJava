@@ -9,7 +9,7 @@ import java.util.*;
  * Created by Administrator on 2017/9/16.
  */
 public class NoNameInnerClass {
-    class MyComparator implements Comparator{
+    static class MyComparator implements Comparator{
         @Override
         public int compare(Object o1, Object o2) {
             String map1 = (String) o1;
@@ -34,8 +34,7 @@ public class NoNameInnerClass {
 //            return map1.get("baseTime").toString().compareTo(map2.get("baseTime").toString());
             }
         });
-
-//        Collections.sort(listout,new MyComparator());
+        Collections.sort(listout,new MyComparator());
         for (String x : listout) {
             System.out.println("x=" + x);
         }
