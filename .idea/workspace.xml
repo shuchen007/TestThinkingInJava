@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ec5859-09b1-480d-ba92-2f291692fe05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/class14/Son.class" afterPath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/class14/Son.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/class14/TestCloneable.class" afterPath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/class14/TestCloneable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/innerClass10/Apple3.class" afterPath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/innerClass10/Apple3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/innerClass10/TestInnerClass$Apple1.class" afterPath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/innerClass10/TestInnerClass$Apple1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/innerClass10/TestInnerClass$Apple2.class" afterPath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/innerClass10/TestInnerClass$Apple2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/innerClass10/TestInnerClass.class" afterPath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/innerClass10/TestInnerClass.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hao/initialization05/TestStaticSort.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/initialization05/ExB.class" afterPath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/initialization05/ExB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/initialization05/TestStaticSort.class" afterPath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/initialization05/TestStaticSort.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/testThinkingInJava_jar/testThinkingInJava.jar" afterPath="$PROJECT_DIR$/out/testThinkingInJava_jar/testThinkingInJava.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/String13/TestNull.java" afterPath="$PROJECT_DIR$/src/com/hao/String13/TestNull.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/class14/Son.java" afterPath="$PROJECT_DIR$/src/com/hao/class14/Son.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/class14/TestCloneable.java" afterPath="$PROJECT_DIR$/src/com/hao/class14/TestCloneable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/innerClass10/NoNameInnerClass.java" afterPath="$PROJECT_DIR$/src/com/hao/innerClass10/NoNameInnerClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/innerClass10/TestInnerClass.java" afterPath="$PROJECT_DIR$/src/com/hao/innerClass10/TestInnerClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/initialization05/ExB.java" afterPath="$PROJECT_DIR$/src/com/hao/initialization05/ExB.java" />
     </list>
     <ignored path="TestThinkingInJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,137 +29,173 @@
     <favorites_list name="TestThinkingInJava" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="NoNameInnerClass.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hao/innerClass10/NoNameInnerClass.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestRunnable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread21/TestRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71900827">
-              <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
               <folding>
-                <element signature="e#839#1186#0" expanded="true" />
-                <element signature="e#1185#1186#0" expanded="true" />
+                <element signature="initializer##0;class#TestRunnable1#0" expanded="false" />
+                <element signature="e#1223#1224#0" expanded="true" />
+                <element signature="e#1270#1271#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestComparatorAndComparable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hao/class14/TestComparatorAndComparable.java">
+      <file leaf-file-name="TestThread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Thread21/TestThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.3846154">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding>
-                <element signature="e#240#248#0" expanded="true" />
-                <element signature="e#577#883#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="class#TestThread2#0" expanded="false" />
+                <element signature="e#1518#1519#0" expanded="true" />
+                <element signature="e#1612#1613#0" expanded="true" />
+                <element signature="class#TestThread1#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collections.java">
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="371" column="7" selection-start-line="371" selection-start-column="7" selection-end-line="371" selection-end-column="7" />
+              <caret line="1137" column="24" selection-start-line="1137" selection-start-column="24" selection-end-line="1137" selection-end-column="24" />
               <folding>
-                <element signature="e#5644#5645#0" expanded="true" />
-                <element signature="e#5675#5676#0" expanded="true" />
-                <element signature="e#7284#7285#0" expanded="true" />
-                <element signature="e#7312#7313#0" expanded="true" />
-                <element signature="e#197058#197059#0" expanded="true" />
-                <element signature="e#197128#197129#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comparable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Comparable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="133" column="50" selection-start-line="133" selection-start-column="50" selection-end-line="133" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="480" column="21" selection-start-line="480" selection-start-column="21" selection-end-line="480" selection-end-column="21" />
-              <folding>
-                <element signature="docComment;class#List#0" expanded="false" />
-                <element signature="docComment;method#size#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#contains#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#iterator#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#toArray#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#toArray#1;class#List#0" expanded="false" />
-                <element signature="docComment;method#add#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#remove#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#containsAll#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#addAll#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#addAll#1;class#List#0" expanded="false" />
-                <element signature="docComment;method#removeAll#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#retainAll#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#replaceAll#0;class#List#0" expanded="false" />
-                <element signature="method#replaceAll#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#clear#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#equals#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#hashCode#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#get#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#set#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#add#1;class#List#0" expanded="false" />
-                <element signature="docComment;method#remove#1;class#List#0" expanded="false" />
-                <element signature="docComment;method#indexOf#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#listIterator#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#listIterator#1;class#List#0" expanded="false" />
-                <element signature="docComment;method#subList#0;class#List#0" expanded="false" />
-                <element signature="docComment;method#spliterator#0;class#List#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comparator.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Comparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="148" column="7" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
-              <folding>
-                <element signature="docComment;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#compare#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#equals#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#reversed#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#thenComparing#0;class#Comparator#0" expanded="false" />
-                <element signature="method#thenComparing#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#thenComparing#1;class#Comparator#0" expanded="false" />
-                <element signature="method#thenComparing#1;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#thenComparing#2;class#Comparator#0" expanded="false" />
-                <element signature="method#thenComparing#2;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" expanded="false" />
-                <element signature="method#thenComparingInt#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" expanded="false" />
-                <element signature="method#thenComparingLong#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" expanded="false" />
-                <element signature="method#thenComparingDouble#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#reverseOrder#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#naturalOrder#0;class#Comparator#0" expanded="false" />
-                <element signature="method#naturalOrder#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#nullsFirst#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#nullsLast#0;class#Comparator#0" expanded="false" />
-                <element signature="method#nullsLast#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#comparing#0;class#Comparator#0" expanded="false" />
-                <element signature="method#comparing#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#comparing#1;class#Comparator#0" expanded="false" />
-                <element signature="method#comparing#1;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#comparingInt#0;class#Comparator#0" expanded="false" />
-                <element signature="method#comparingInt#0;class#Comparator#0" expanded="false" />
-                <element signature="docComment;method#comparingDouble#0;class#Comparator#0" expanded="false" />
-                <element signature="method#comparingDouble#0;class#Comparator#0" expanded="false" />
+                <element signature="docComment;class#Thread#0" expanded="false" />
+                <element signature="initializer##0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#parkBlocker#0;class#Thread#0" expanded="false" />
+                <element signature="method#blockedOn#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#MIN_PRIORITY#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#NORM_PRIORITY#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#MAX_PRIORITY#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#currentThread#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#yield#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#sleep#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#sleep#1;class#Thread#0" expanded="false" />
+                <element signature="method#sleep#1;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#init#0;class#Thread#0" expanded="false" />
+                <element signature="method#init#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#init#1;class#Thread#0" expanded="false" />
+                <element signature="method#init#1;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#clone#0;class#Thread#0" expanded="false" />
+                <element signature="method#clone#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#Thread#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#Thread#1;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#Thread#2;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#Thread#3;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#Thread#4;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#Thread#5;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#Thread#6;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#Thread#7;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#Thread#8;class#Thread#0" expanded="false" />
+                <element signature="method#Thread#8;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#start#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#run#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#exit#0;class#Thread#0" expanded="false" />
+                <element signature="method#exit#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#stop#0;class#Thread#0" expanded="false" />
+                <element signature="method#stop#0;class#Thread#0" expanded="false" />
+                <element signature="e#32266#32329#0" expanded="false" />
+                <element signature="docComment;method#stop#1;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#interrupt#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#interrupted#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#isInterrupted#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#isInterrupted#1;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#destroy#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#isAlive#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#suspend#0;class#Thread#0" expanded="false" />
+                <element signature="method#suspend#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#resume#0;class#Thread#0" expanded="false" />
+                <element signature="method#resume#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#setPriority#0;class#Thread#0" expanded="false" />
+                <element signature="method#setPriority#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#getPriority#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#setName#0;class#Thread#0" expanded="false" />
+                <element signature="method#setName#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#getName#0;class#Thread#0" expanded="false" />
+                <element signature="e#43723#43724#0" expanded="true" />
+                <element signature="e#43750#43751#0" expanded="true" />
+                <element signature="docComment;method#getThreadGroup#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#activeCount#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#enumerate#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#countStackFrames#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#join#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#join#1;class#Thread#0" expanded="false" />
+                <element signature="method#join#1;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#join#2;class#Thread#0" expanded="false" />
+                <element signature="method#join#2;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#dumpStack#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#setDaemon#0;class#Thread#0" expanded="false" />
+                <element signature="method#setDaemon#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#isDaemon#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#checkAccess#0;class#Thread#0" expanded="false" />
+                <element signature="method#checkAccess#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#toString#0;class#Thread#0" expanded="false" />
+                <element signature="method#toString#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#getContextClassLoader#0;class#Thread#0" expanded="false" />
+                <element signature="method#getContextClassLoader#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#setContextClassLoader#0;class#Thread#0" expanded="false" />
+                <element signature="method#setContextClassLoader#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#holdsLock#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#getStackTrace#0;class#Thread#0" expanded="false" />
+                <element signature="method#getStackTrace#0;class#Thread#0" expanded="false" />
+                <element signature="e#59088#59150#0" expanded="false" />
+                <element signature="e#59455#59523#0" expanded="false" />
+                <element signature="docComment;method#getAllStackTraces#0;class#Thread#0" expanded="false" />
+                <element signature="method#getAllStackTraces#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;class#Caches#0;class#Thread#0" expanded="false" />
+                <element signature="class#Caches#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#subclassAudits#0;class#Caches#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#subclassAuditsQueue#0;class#Caches#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#isCCLOverridden#0;class#Thread#0" expanded="false" />
+                <element signature="method#isCCLOverridden#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#auditSubclass#0;class#Thread#0" expanded="false" />
+                <element signature="method#auditSubclass#0;class#Thread#0" expanded="false" />
+                <element signature="class#64296:65199" expanded="false" />
+                <element signature="method#run#0;class#64296:65199" expanded="false" />
+                <element signature="docComment;method#getId#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;class#State#0;class#Thread#0" expanded="false" />
+                <element signature="class#State#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#NEW#0;class#State#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#RUNNABLE#0;class#State#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#BLOCKED#0;class#State#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#WAITING#0;class#State#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#TIMED_WAITING#0;class#State#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#TERMINATED#0;class#State#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#getState#0;class#Thread#0" expanded="false" />
+                <element signature="method#getState#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#uncaughtException#0;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#dispatchUncaughtException#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#processQueue#0;class#Thread#0" expanded="false" />
+                <element signature="method#processQueue#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+                <element signature="class#WeakClassKey#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#hash#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+                <element signature="method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#hashCode#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+                <element signature="method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+                <element signature="e#77771#77840#0" expanded="false" />
+                <element signature="docComment;field#threadLocalRandomSeed#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#threadLocalRandomProbe#0;class#Thread#0" expanded="false" />
+                <element signature="docComment;field#threadLocalRandomSecondarySeed#0;class#Thread#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -199,6 +228,14 @@
         <option value="$PROJECT_DIR$/src/com/hao/innerClass10/NoNameInnerClass.java" />
         <option value="$PROJECT_DIR$/src/com/hao/String13/TestNull.java" />
         <option value="$PROJECT_DIR$/src/com/hao/class14/TestComparatorAndComparable.java" />
+        <option value="$PROJECT_DIR$/src/com/hao/initialization05/TestStaticSort.java" />
+        <option value="$PROJECT_DIR$/src/com/hao/initialization05/ReferenceCountingGC.java" />
+        <option value="$PROJECT_DIR$/src/com/hao/initialization05/TestJvm.java" />
+        <option value="$PROJECT_DIR$/src/com/hao/initialization05/ExB.java" />
+        <option value="$PROJECT_DIR$/src/com/hao/initialization05/TestN.java" />
+        <option value="$PROJECT_DIR$/src/Thread21/TestRunnable.java" />
+        <option value="$PROJECT_DIR$/src/Thread21/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/com/hao/String13/NumberConvert.java" />
       </list>
     </option>
   </component>
@@ -220,7 +257,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -238,6 +275,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -358,33 +396,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestThinkingInJava" />
+              <option name="myItemId" value="Thread21" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="innerClass10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestInnerClass.java" />
+              <option name="myItemId" value="TestThread.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -402,11 +418,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="innerClass10" />
+              <option name="myItemId" value="Thread21" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -428,30 +440,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="class14" />
+              <option name="myItemId" value="String13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Application.TestComparatorAndComparable">
-    <configuration default="false" name="TestCloneable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestThread">
+    <configuration default="false" name="TestJvm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.hao.class14.*" />
+          <option name="PATTERN" value="com.hao.initialization05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.hao.class14.TestCloneable" />
+      <option name="MAIN_CLASS_NAME" value="com.hao.initialization05.TestJvm" />
+      <option name="VM_PARAMETERS" value="-verbose:gc" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="testThinkingInJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Thread21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Thread21.TestThread" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -464,17 +513,57 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TestComparatorAndComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.hao.class14.*" />
+          <option name="PATTERN" value="Thread21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.hao.class14.TestComparatorAndComparable" />
+      <option name="MAIN_CLASS_NAME" value="Thread21.TestRunnable" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="testThinkingInJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReferenceCountingGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.hao.initialization05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.hao.initialization05.ReferenceCountingGC" />
+      <option name="VM_PARAMETERS" value="-verbose:gc" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="testThinkingInJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.hao.initialization05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.hao.initialization05.TestN" />
+      <option name="VM_PARAMETERS" value="-XX:+TraceClassLoading" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -875,6 +964,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -889,14 +983,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestCloneable" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestComparatorAndComparable" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestJvm" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestThread" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestRunnable" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ReferenceCountingGC" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestN" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestComparatorAndComparable" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestCloneable" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestThread" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestRunnable" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestN" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestJvm" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReferenceCountingGC" />
       </list>
     </recent_temporary>
   </component>
@@ -911,39 +1011,44 @@
       <option name="number" value="Default" />
       <updated>1522323614304</updated>
       <workItem from="1522323625700" duration="7671000" />
+      <workItem from="1522412981545" duration="8442000" />
+      <workItem from="1522459667402" duration="1760000" />
+      <workItem from="1522471756750" duration="10375000" />
+      <workItem from="1522494518011" duration="5500000" />
+      <workItem from="1522575911606" duration="14967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7671000" />
+    <option name="totallyTimeSpent" value="48715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -958,7 +1063,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hao/initialization05/TestJvm.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hao/initialization05/TestJvm.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -966,7 +1087,83 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/TestJvm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/ReferenceCountingGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/ExB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/ref/PhantomReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/TestJvm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/ReferenceCountingGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/TestN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="initializer##0;class#TestRunnable1#0" expanded="false" />
+            <element signature="e#1223#1224#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/ExB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="44" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/TestJvm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -974,488 +1171,166 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/innerClass10/TestInnerClass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/ExB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.110192835">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="44" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/class14/TestCloneable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/TestJvm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49586776">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="138" column="3" selection-start-line="138" selection-start-column="3" selection-end-line="138" selection-end-column="3" />
           <folding>
-            <element signature="class#Stutend#0;class#TestCloneable#0" expanded="false" />
+            <element signature="docComment;class#Thread#0" expanded="false" />
+            <element signature="initializer##0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#parkBlocker#0;class#Thread#0" expanded="false" />
+            <element signature="method#blockedOn#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#MIN_PRIORITY#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#NORM_PRIORITY#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#MAX_PRIORITY#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#currentThread#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#yield#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#sleep#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#sleep#1;class#Thread#0" expanded="false" />
+            <element signature="method#sleep#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#init#0;class#Thread#0" expanded="false" />
+            <element signature="method#init#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#init#1;class#Thread#0" expanded="false" />
+            <element signature="method#init#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#Thread#0" expanded="false" />
+            <element signature="method#clone#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#2;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#3;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#4;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#5;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#6;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#7;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#8;class#Thread#0" expanded="false" />
+            <element signature="method#Thread#8;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#start#0;class#Thread#0" expanded="false" />
+            <element signature="method#start#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#run#0;class#Thread#0" expanded="false" />
+            <element signature="method#run#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#exit#0;class#Thread#0" expanded="false" />
+            <element signature="method#exit#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#stop#0;class#Thread#0" expanded="false" />
+            <element signature="method#stop#0;class#Thread#0" expanded="false" />
+            <element signature="e#32266#32329#0" expanded="false" />
+            <element signature="docComment;method#stop#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#interrupt#0;class#Thread#0" expanded="false" />
+            <element signature="method#interrupt#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#interrupted#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isInterrupted#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isInterrupted#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#destroy#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isAlive#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#suspend#0;class#Thread#0" expanded="false" />
+            <element signature="method#suspend#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#resume#0;class#Thread#0" expanded="false" />
+            <element signature="method#resume#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setPriority#0;class#Thread#0" expanded="false" />
+            <element signature="method#setPriority#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getPriority#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setName#0;class#Thread#0" expanded="false" />
+            <element signature="method#setName#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getThreadGroup#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#activeCount#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#enumerate#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#countStackFrames#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#join#0;class#Thread#0" expanded="false" />
+            <element signature="method#join#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#join#1;class#Thread#0" expanded="false" />
+            <element signature="method#join#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#join#2;class#Thread#0" expanded="false" />
+            <element signature="method#join#2;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#dumpStack#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setDaemon#0;class#Thread#0" expanded="false" />
+            <element signature="method#setDaemon#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isDaemon#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#checkAccess#0;class#Thread#0" expanded="false" />
+            <element signature="method#checkAccess#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Thread#0" expanded="false" />
+            <element signature="method#toString#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="method#getContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="method#setContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#holdsLock#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getStackTrace#0;class#Thread#0" expanded="false" />
+            <element signature="method#getStackTrace#0;class#Thread#0" expanded="false" />
+            <element signature="e#59088#59150#0" expanded="false" />
+            <element signature="e#59455#59523#0" expanded="false" />
+            <element signature="docComment;method#getAllStackTraces#0;class#Thread#0" expanded="false" />
+            <element signature="method#getAllStackTraces#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#subclassAudits#0;class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#subclassAuditsQueue#0;class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isCCLOverridden#0;class#Thread#0" expanded="false" />
+            <element signature="method#isCCLOverridden#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#auditSubclass#0;class#Thread#0" expanded="false" />
+            <element signature="method#auditSubclass#0;class#Thread#0" expanded="false" />
+            <element signature="class#64296:65199" expanded="false" />
+            <element signature="method#run#0;class#64296:65199" expanded="false" />
+            <element signature="docComment;method#getId#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#NEW#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#RUNNABLE#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#BLOCKED#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#WAITING#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#TIMED_WAITING#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#TERMINATED#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getState#0;class#Thread#0" expanded="false" />
+            <element signature="method#getState#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#uncaughtException#0;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#dispatchUncaughtException#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#processQueue#0;class#Thread#0" expanded="false" />
+            <element signature="method#processQueue#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#hash#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="e#77771#77840#0" expanded="false" />
+            <element signature="docComment;field#threadLocalRandomSeed#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#threadLocalRandomProbe#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#threadLocalRandomSecondarySeed#0;class#Thread#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/hao/innerClass10/NoNameInnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding>
-            <element signature="docComment;class#Arrays#0" expanded="false" />
-            <element signature="docComment;field#MIN_ARRAY_SORT_GRAN#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;class#NaturalOrder#0;class#Arrays#0" expanded="false" />
-            <element signature="class#NaturalOrder#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#rangeCheck#0;class#Arrays#0" expanded="false" />
-            <element signature="method#rangeCheck#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#1;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#3;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#5;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#7;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#8;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#9;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#9;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#10;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#11;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#11;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#12;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#13;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#13;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#0;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#1;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#2;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#3;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#4;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#5;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#6;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#7;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#8;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#8;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#9;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#9;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#10;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#10;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#11;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#11;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#12;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#12;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#13;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#13;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#14;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#14;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#15;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#15;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#16;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#16;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSort#17;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSort#17;class#Arrays#0" expanded="false" />
-            <element signature="docComment;class#LegacyMergeSort#0;class#Arrays#0" expanded="false" />
-            <element signature="class#LegacyMergeSort#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#14;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#14;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#legacyMergeSort#0;class#Arrays#0" expanded="false" />
-            <element signature="method#legacyMergeSort#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#15;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#15;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#legacyMergeSort#1;class#Arrays#0" expanded="false" />
-            <element signature="method#legacyMergeSort#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;field#INSERTIONSORT_THRESHOLD#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#mergeSort#0;class#Arrays#0" expanded="false" />
-            <element signature="method#mergeSort#0;class#Arrays#0" expanded="false" />
-            <element signature="e#65631#65700#0" expanded="false" />
-            <element signature="docComment;method#swap#0;class#Arrays#0" expanded="false" />
-            <element signature="method#swap#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#16;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#16;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#legacyMergeSort#2;class#Arrays#0" expanded="false" />
-            <element signature="method#legacyMergeSort#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#sort#17;class#Arrays#0" expanded="false" />
-            <element signature="method#sort#17;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#legacyMergeSort#3;class#Arrays#0" expanded="false" />
-            <element signature="method#legacyMergeSort#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#mergeSort#1;class#Arrays#0" expanded="false" />
-            <element signature="method#mergeSort#1;class#Arrays#0" expanded="false" />
-            <element signature="e#74646#74715#0" expanded="false" />
-            <element signature="docComment;method#parallelPrefix#0;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelPrefix#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelPrefix#1;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelPrefix#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelPrefix#2;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelPrefix#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelPrefix#3;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelPrefix#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelPrefix#4;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelPrefix#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelPrefix#5;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelPrefix#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelPrefix#6;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelPrefix#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelPrefix#7;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelPrefix#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#1;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch#1;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch0#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#3;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch#3;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch0#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#5;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch#5;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch0#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#7;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch#7;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch0#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#8;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#9;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch#9;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch0#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#10;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#11;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch#11;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch0#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#12;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#13;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch#13;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch0#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#14;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#15;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch#15;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch0#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#16;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch#16;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#binarySearch#17;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch#17;class#Arrays#0" expanded="false" />
-            <element signature="method#binarySearch0#8;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#equals#0;class#Arrays#0" expanded="false" />
-            <element signature="method#equals#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#equals#1;class#Arrays#0" expanded="false" />
-            <element signature="method#equals#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#equals#2;class#Arrays#0" expanded="false" />
-            <element signature="method#equals#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#equals#3;class#Arrays#0" expanded="false" />
-            <element signature="method#equals#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#equals#4;class#Arrays#0" expanded="false" />
-            <element signature="method#equals#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#equals#5;class#Arrays#0" expanded="false" />
-            <element signature="method#equals#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#equals#6;class#Arrays#0" expanded="false" />
-            <element signature="method#equals#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#equals#7;class#Arrays#0" expanded="false" />
-            <element signature="method#equals#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#equals#8;class#Arrays#0" expanded="false" />
-            <element signature="method#equals#8;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#0;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#1;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#2;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#3;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#4;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#5;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#6;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#7;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#8;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#8;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#9;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#9;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#10;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#10;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#11;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#11;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#12;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#12;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#13;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#13;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#14;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#14;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#15;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#15;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#16;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#16;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#fill#17;class#Arrays#0" expanded="false" />
-            <element signature="method#fill#17;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOf#0;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOf#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOf#1;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOf#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOf#2;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOf#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOf#3;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOf#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOf#4;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOf#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOf#5;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOf#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOf#6;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOf#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOf#7;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOf#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOf#8;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOf#8;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOf#9;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOf#9;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOfRange#0;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOfRange#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOfRange#1;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOfRange#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOfRange#2;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOfRange#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOfRange#3;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOfRange#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOfRange#4;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOfRange#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOfRange#5;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOfRange#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOfRange#6;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOfRange#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOfRange#7;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOfRange#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOfRange#8;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOfRange#8;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#copyOfRange#9;class#Arrays#0" expanded="false" />
-            <element signature="method#copyOfRange#9;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#asList#0;class#Arrays#0" expanded="false" />
-            <element signature="e#176922#176934#0" expanded="false" />
-            <element signature="docComment;class#ArrayList#0;class#Arrays#0" expanded="false" />
-            <element signature="class#ArrayList#0;class#Arrays#0" expanded="false" />
-            <element signature="e#177602#177611#0" expanded="false" />
-            <element signature="method#toArray#1;class#ArrayList#0;class#Arrays#0" expanded="false" />
-            <element signature="method#set#0;class#ArrayList#0;class#Arrays#0" expanded="false" />
-            <element signature="method#indexOf#0;class#ArrayList#0;class#Arrays#0" expanded="false" />
-            <element signature="method#forEach#0;class#ArrayList#0;class#Arrays#0" expanded="false" />
-            <element signature="method#replaceAll#0;class#ArrayList#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#hashCode#0;class#Arrays#0" expanded="false" />
-            <element signature="method#hashCode#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#hashCode#1;class#Arrays#0" expanded="false" />
-            <element signature="method#hashCode#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#hashCode#2;class#Arrays#0" expanded="false" />
-            <element signature="method#hashCode#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#hashCode#3;class#Arrays#0" expanded="false" />
-            <element signature="method#hashCode#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#hashCode#4;class#Arrays#0" expanded="false" />
-            <element signature="method#hashCode#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#hashCode#5;class#Arrays#0" expanded="false" />
-            <element signature="method#hashCode#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#hashCode#6;class#Arrays#0" expanded="false" />
-            <element signature="method#hashCode#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#hashCode#7;class#Arrays#0" expanded="false" />
-            <element signature="method#hashCode#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#hashCode#8;class#Arrays#0" expanded="false" />
-            <element signature="method#hashCode#8;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#deepHashCode#0;class#Arrays#0" expanded="false" />
-            <element signature="method#deepHashCode#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#deepEquals#0;class#Arrays#0" expanded="false" />
-            <element signature="method#deepEquals#0;class#Arrays#0" expanded="false" />
-            <element signature="method#deepEquals0#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#Arrays#0" expanded="false" />
-            <element signature="method#toString#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#toString#1;class#Arrays#0" expanded="false" />
-            <element signature="method#toString#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#toString#2;class#Arrays#0" expanded="false" />
-            <element signature="method#toString#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#toString#3;class#Arrays#0" expanded="false" />
-            <element signature="method#toString#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#toString#4;class#Arrays#0" expanded="false" />
-            <element signature="method#toString#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#toString#5;class#Arrays#0" expanded="false" />
-            <element signature="method#toString#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#toString#6;class#Arrays#0" expanded="false" />
-            <element signature="method#toString#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#toString#7;class#Arrays#0" expanded="false" />
-            <element signature="method#toString#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#toString#8;class#Arrays#0" expanded="false" />
-            <element signature="method#toString#8;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#deepToString#0;class#Arrays#0" expanded="false" />
-            <element signature="method#deepToString#0;class#Arrays#0" expanded="false" />
-            <element signature="method#deepToString#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#setAll#0;class#Arrays#0" expanded="false" />
-            <element signature="method#setAll#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSetAll#0;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSetAll#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#setAll#1;class#Arrays#0" expanded="false" />
-            <element signature="method#setAll#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSetAll#1;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSetAll#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#setAll#2;class#Arrays#0" expanded="false" />
-            <element signature="method#setAll#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSetAll#2;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSetAll#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#setAll#3;class#Arrays#0" expanded="false" />
-            <element signature="method#setAll#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#parallelSetAll#3;class#Arrays#0" expanded="false" />
-            <element signature="method#parallelSetAll#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#spliterator#0;class#Arrays#0" expanded="false" />
-            <element signature="method#spliterator#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#spliterator#1;class#Arrays#0" expanded="false" />
-            <element signature="method#spliterator#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#spliterator#2;class#Arrays#0" expanded="false" />
-            <element signature="method#spliterator#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#spliterator#3;class#Arrays#0" expanded="false" />
-            <element signature="method#spliterator#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#spliterator#4;class#Arrays#0" expanded="false" />
-            <element signature="method#spliterator#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#spliterator#5;class#Arrays#0" expanded="false" />
-            <element signature="method#spliterator#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#spliterator#6;class#Arrays#0" expanded="false" />
-            <element signature="method#spliterator#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#spliterator#7;class#Arrays#0" expanded="false" />
-            <element signature="method#spliterator#7;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#stream#0;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#stream#1;class#Arrays#0" expanded="false" />
-            <element signature="method#stream#1;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#stream#2;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#stream#3;class#Arrays#0" expanded="false" />
-            <element signature="method#stream#3;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#stream#4;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#stream#5;class#Arrays#0" expanded="false" />
-            <element signature="method#stream#5;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#stream#6;class#Arrays#0" expanded="false" />
-            <element signature="docComment;method#stream#7;class#Arrays#0" expanded="false" />
-            <element signature="method#stream#7;class#Arrays#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/AbstractSequentialList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="58" selection-start-line="68" selection-start-column="58" selection-end-line="68" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="79" selection-start-line="70" selection-start-column="79" selection-end-line="70" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11294766">
-          <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="480" column="21" selection-start-line="480" selection-start-column="21" selection-end-line="480" selection-end-column="21" />
-          <folding>
-            <element signature="docComment;class#List#0" expanded="false" />
-            <element signature="docComment;method#size#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#isEmpty#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#contains#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#iterator#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#toArray#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#toArray#1;class#List#0" expanded="false" />
-            <element signature="docComment;method#add#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#remove#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#containsAll#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#addAll#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#addAll#1;class#List#0" expanded="false" />
-            <element signature="docComment;method#removeAll#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#retainAll#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#replaceAll#0;class#List#0" expanded="false" />
-            <element signature="method#replaceAll#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#clear#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#equals#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#hashCode#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#get#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#set#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#add#1;class#List#0" expanded="false" />
-            <element signature="docComment;method#remove#1;class#List#0" expanded="false" />
-            <element signature="docComment;method#indexOf#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#lastIndexOf#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#listIterator#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#listIterator#1;class#List#0" expanded="false" />
-            <element signature="docComment;method#subList#0;class#List#0" expanded="false" />
-            <element signature="docComment;method#spliterator#0;class#List#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/String13/TestNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3939394">
-          <caret line="57" column="63" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
-          <folding>
-            <element signature="e#1662#1669#0" expanded="true" />
-            <element signature="e#2041#2042#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="133" column="50" selection-start-line="133" selection-start-column="50" selection-end-line="133" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="371" column="7" selection-start-line="371" selection-start-column="7" selection-end-line="371" selection-end-column="7" />
-          <folding>
-            <element signature="e#5644#5645#0" expanded="true" />
-            <element signature="e#5675#5676#0" expanded="true" />
-            <element signature="e#7284#7285#0" expanded="true" />
-            <element signature="e#7312#7313#0" expanded="true" />
-            <element signature="e#197058#197059#0" expanded="true" />
-            <element signature="e#197128#197129#0" expanded="true" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1463,38 +1338,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding>
-            <element signature="e#240#248#0" expanded="true" />
-            <element signature="e#577#883#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/class14/Son.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding />
+          <caret line="371" column="7" selection-start-line="371" selection-start-column="7" selection-end-line="371" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/class14/Father.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding />
+          <caret line="133" column="50" selection-start-line="133" selection-start-column="50" selection-end-line="133" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Object.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.9724517">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="480" column="21" selection-start-line="480" selection-start-column="21" selection-end-line="480" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1502,48 +1366,383 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="148" column="7" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
-          <folding>
-            <element signature="docComment;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#compare#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#equals#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#reversed#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparing#0;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparing#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparing#1;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparing#1;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparing#2;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparing#2;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparingInt#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparingLong#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparingDouble#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#reverseOrder#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#naturalOrder#0;class#Comparator#0" expanded="false" />
-            <element signature="method#naturalOrder#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#nullsFirst#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#nullsLast#0;class#Comparator#0" expanded="false" />
-            <element signature="method#nullsLast#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#comparing#0;class#Comparator#0" expanded="false" />
-            <element signature="method#comparing#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#comparing#1;class#Comparator#0" expanded="false" />
-            <element signature="method#comparing#1;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#comparingInt#0;class#Comparator#0" expanded="false" />
-            <element signature="method#comparingInt#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#comparingDouble#0;class#Comparator#0" expanded="false" />
-            <element signature="method#comparingDouble#0;class#Comparator#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/innerClass10/TestInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.110192835">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/class14/TestCloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49586776">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/AbstractSequentialList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="58" selection-start-line="68" selection-start-column="58" selection-end-line="68" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="79" selection-start-line="70" selection-start-column="79" selection-end-line="70" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11294766">
+          <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="480" column="21" selection-start-line="480" selection-start-column="21" selection-end-line="480" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/String13/TestNull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3939394">
+          <caret line="57" column="63" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="133" column="50" selection-start-line="133" selection-start-column="50" selection-end-line="133" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="371" column="7" selection-start-line="371" selection-start-column="7" selection-end-line="371" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/class14/TestComparatorAndComparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/class14/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/class14/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="148" column="7" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hao/innerClass10/NoNameInnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71900827">
-          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5041322">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
           <folding>
-            <element signature="e#839#1186#0" expanded="true" />
-            <element signature="e#1185#1186#0" expanded="true" />
+            <element signature="docComment;class#Runnable#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/ref/SoftReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27747253">
+          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/ref/PhantomReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/ExB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/ReferenceCountingGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/ref/WeakReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10164835">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/TestJvm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/TestN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3846154">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding>
+            <element signature="initializer##0;class#TestRunnable1#0" expanded="false" />
+            <element signature="e#1223#1224#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33241758">
+          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1137" column="24" selection-start-line="1137" selection-start-column="24" selection-end-line="1137" selection-end-column="24" />
+          <folding>
+            <element signature="docComment;class#Thread#0" expanded="false" />
+            <element signature="initializer##0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#parkBlocker#0;class#Thread#0" expanded="false" />
+            <element signature="method#blockedOn#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#MIN_PRIORITY#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#NORM_PRIORITY#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#MAX_PRIORITY#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#currentThread#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#yield#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#sleep#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#sleep#1;class#Thread#0" expanded="false" />
+            <element signature="method#sleep#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#init#0;class#Thread#0" expanded="false" />
+            <element signature="method#init#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#init#1;class#Thread#0" expanded="false" />
+            <element signature="method#init#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#Thread#0" expanded="false" />
+            <element signature="method#clone#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#2;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#3;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#4;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#5;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#6;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#7;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#8;class#Thread#0" expanded="false" />
+            <element signature="method#Thread#8;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#start#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#run#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#exit#0;class#Thread#0" expanded="false" />
+            <element signature="method#exit#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#stop#0;class#Thread#0" expanded="false" />
+            <element signature="method#stop#0;class#Thread#0" expanded="false" />
+            <element signature="e#32266#32329#0" expanded="false" />
+            <element signature="docComment;method#stop#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#interrupt#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#interrupted#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isInterrupted#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isInterrupted#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#destroy#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isAlive#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#suspend#0;class#Thread#0" expanded="false" />
+            <element signature="method#suspend#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#resume#0;class#Thread#0" expanded="false" />
+            <element signature="method#resume#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setPriority#0;class#Thread#0" expanded="false" />
+            <element signature="method#setPriority#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getPriority#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setName#0;class#Thread#0" expanded="false" />
+            <element signature="method#setName#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#Thread#0" expanded="false" />
+            <element signature="e#43723#43724#0" expanded="true" />
+            <element signature="e#43750#43751#0" expanded="true" />
+            <element signature="docComment;method#getThreadGroup#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#activeCount#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#enumerate#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#countStackFrames#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#join#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#join#1;class#Thread#0" expanded="false" />
+            <element signature="method#join#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#join#2;class#Thread#0" expanded="false" />
+            <element signature="method#join#2;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#dumpStack#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setDaemon#0;class#Thread#0" expanded="false" />
+            <element signature="method#setDaemon#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isDaemon#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#checkAccess#0;class#Thread#0" expanded="false" />
+            <element signature="method#checkAccess#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Thread#0" expanded="false" />
+            <element signature="method#toString#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="method#getContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="method#setContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#holdsLock#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getStackTrace#0;class#Thread#0" expanded="false" />
+            <element signature="method#getStackTrace#0;class#Thread#0" expanded="false" />
+            <element signature="e#59088#59150#0" expanded="false" />
+            <element signature="e#59455#59523#0" expanded="false" />
+            <element signature="docComment;method#getAllStackTraces#0;class#Thread#0" expanded="false" />
+            <element signature="method#getAllStackTraces#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#subclassAudits#0;class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#subclassAuditsQueue#0;class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isCCLOverridden#0;class#Thread#0" expanded="false" />
+            <element signature="method#isCCLOverridden#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#auditSubclass#0;class#Thread#0" expanded="false" />
+            <element signature="method#auditSubclass#0;class#Thread#0" expanded="false" />
+            <element signature="class#64296:65199" expanded="false" />
+            <element signature="method#run#0;class#64296:65199" expanded="false" />
+            <element signature="docComment;method#getId#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#NEW#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#RUNNABLE#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#BLOCKED#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#WAITING#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#TIMED_WAITING#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#TERMINATED#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getState#0;class#Thread#0" expanded="false" />
+            <element signature="method#getState#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#uncaughtException#0;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#dispatchUncaughtException#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#processQueue#0;class#Thread#0" expanded="false" />
+            <element signature="method#processQueue#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#hash#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="e#77771#77840#0" expanded="false" />
+            <element signature="docComment;field#threadLocalRandomSeed#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#threadLocalRandomProbe#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#threadLocalRandomSecondarySeed#0;class#Thread#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hao/String13/NumberConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38736263">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3846154">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="class#TestThread2#0" expanded="false" />
+            <element signature="e#1518#1519#0" expanded="true" />
+            <element signature="e#1612#1613#0" expanded="true" />
+            <element signature="class#TestThread1#0" expanded="false" />
           </folding>
         </state>
       </provider>
