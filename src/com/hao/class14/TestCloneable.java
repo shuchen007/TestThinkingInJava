@@ -18,11 +18,12 @@ public class TestCloneable {
 		System.out.println(stutend2.getAge());
 		stutend2.setAge(43);
 		System.out.println(stutend2.getAge());
-		System.out.println(stutend2.getAge());
+		System.out.println(stutend1.getAge());
 	}
 	class Stutend implements Cloneable{
 		private String name;
 		private int age;
+		@Override
 		public Object clone() throws CloneNotSupportedException
 		{
 			return super.clone();

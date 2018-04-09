@@ -29,7 +29,7 @@ public class TestComparatorAndComparable extends Son{
         }
     }
 
-    //静态内部类和匿名内部类
+    //静态内部类
     static class MyComparator implements Comparator{
         @Override
         public int compare(Object o1, Object o2) {
