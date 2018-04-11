@@ -24,15 +24,16 @@ public class TestSynchronized {
 //		}
 //		测试抛异常时切换到另一个线程，end
 		for (int i = 0; i < 10; i++) {
+			Thread.yield();
 			Thread.sleep(100);
 			count++;
-			System.out.println("cou1");
+			System.out.println("cou1"+Thread.currentThread().getName());
 		}
 	}
 	private synchronized void  addCount1() throws InterruptedException {
 		for (int i = 0; i < 10; i++) {
 			count1++;
-			System.out.println("cou2");
+			System.out.println("cou2"+Thread.currentThread().getName());
 		}
 	}
 
@@ -48,8 +49,9 @@ public class TestSynchronized {
 			@Override
 			public void run() {
 				super.run();
-				for (int i = 0; i < 10; i++) {
+				for (int i = 0; i < 5; i++) {
 					try {
+						System.out.println(this.getName()+Thread.currentThread().getName()+this.getState());
 						te.addCount();
 					} catch (InterruptedException e) {
 						e.printStackTrace();
@@ -61,7 +63,7 @@ public class TestSynchronized {
 		Thread t2 = new Thread(new Runnable() {
 			@Override
 			public void run() {
-				for (int i = 0; i < 10; i++) {
+				for (int i = 0; i < 5; i++) {
 					try {
 						te1.addCount1();
 					} catch (InterruptedException e) {
@@ -70,11 +72,16 @@ public class TestSynchronized {
 				}
 			}
 		});
+//		t1.setDaemon(true);
 		t1.start();
+//		t1.join(200);
+//		t1.sleep(7000);
+//		Thread.sleep(200);
+		System.out.println("count=" + te1.count + t1.getState() );//最终打印的值并非10000，volatile对所有线程可见。
 		t2.start();
-		t1.join(200);
-//		Thread.sleep(500);
-		System.out.println("count=" + te1.count );//最终打印的值并非10000，volatile对所有线程可见。
+//		t1.join(200);
+		Thread.sleep(7000);
+		System.out.println("count0=" + te1.count + t2.getState() );//最终打印的值并非10000，volatile对所有线程可见。
 		System.out.println("count1=" + te1.count1 );//最终打印的值并非10000，volatile对所有线程可见。
 	}
 }

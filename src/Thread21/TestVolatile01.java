@@ -16,6 +16,7 @@ public class TestVolatile01 {
 			public void run() {
 				for (int i = 0; i < 1000; i++) {
 					a++;
+					System.out.println(a);
 				}
 			}
 		});
@@ -30,6 +31,7 @@ public class TestVolatile01 {
 						e.printStackTrace();
 					}
 					a++;
+					System.out.println(a);
 				}
 			}
 		};
