@@ -1,5 +1,7 @@
 package Thread21;
 
+import java.util.Collections;
+
 /**
  * @Author sunhao
  * @Description
@@ -9,45 +11,88 @@ package Thread21;
 
 public class TestWait {
 	static int a;
-	public void doTest(String xd) throws InterruptedException {
-		for (int i = 0; i < 10; i++) {
+	public synchronized void doTest(String xd) throws InterruptedException {
+		for (int i = 0; i < 8; i++) {
 			a++;
 			Thread.sleep(1000);
+			if (3==a){
+				try{
+					this.wait();
+				}catch (Exception e){
+					System.out.println("do");
+				}
+			}
+		}
+	}
+	public synchronized void doTest2(String xd) throws InterruptedException {
+		for (int i = 0; i < 8; i++) {
+			a++;
+			Thread.sleep(1000);
+			if (5==a){
+				this.wait();
+				System.out.println("begin1=" + a);
+			}
 			System.out.println(a);
 		}
 	}
-	public void doTest1(String xd) throws InterruptedException {
-		System.out.println("start");
-		if (6==a){
-			System.out.println("begin=" + a);
-		}
+	public synchronized void doTest3(String xd) throws InterruptedException {
+//		System.out.println("start");
+		this.notifyAll();
+		Thread.sleep(4000);
 	}
 	public static void main(String[] args) throws InterruptedException {
 		final TestWait testWait = new TestWait();
-		new Thread(){
+		Thread t1 = new Thread(){
 			@Override
 			public void run() {
 				super.run();
 				try {
-					while (true){
-						testWait.doTest1("dfdf");
-					}
+					testWait.doTest("dfdf");
+					System.out.println("1=" + this.getState());
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
 			}
-		}.start();
-		Thread.sleep(1000);
-		new Thread(){
+		};
+		Thread t2 = new Thread(){
 			@Override
 			public void run() {
 				super.run();
 				try {
 					testWait.doTest("fdsf");
+					System.out.println("2=" + this.getState());
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
 			}
-		}.start();
+		};
+		Thread t3 = new Thread(){
+			@Override
+			public void run() {
+				super.run();
+				try {
+					testWait.doTest3("fdsf");
+					System.out.println("3=" + this.getState());
+				} catch (InterruptedException e) {
+					e.printStackTrace();
+				}
+			}
+		};
+		t1.start();
+		Thread.sleep(3000);
+//		t1.interrupt();
+		System.out.println(t1.getState());
+//		t2.start();
+		Thread.sleep(1000);
+		System.out.println("a= "+t1.getState());
+		t3.start();
+		Thread.sleep(1000);
+		System.out.println("a= "+t1.getState());
+//		System.out.println(t1.isInterrupted());
+//		t1.interrupt();
+//		System.out.println(t1.isInterrupted());
+		System.out.println("a= "+t1.getState());
+		String x = "a";
+		System.out.println(x.hashCode());
 	}
 }

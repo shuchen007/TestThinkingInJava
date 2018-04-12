@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ec5859-09b1-480d-ba92-2f291692fe05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread21/TestSynchronized.java" afterPath="$PROJECT_DIR$/src/Thread21/TestSynchronized.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread21/TestThread.java" afterPath="$PROJECT_DIR$/src/Thread21/TestThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread21/TestVolatile01.java" afterPath="$PROJECT_DIR$/src/Thread21/TestVolatile01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread21/TestWait.java" afterPath="$PROJECT_DIR$/src/Thread21/TestWait.java" />
     </list>
     <ignored path="TestThinkingInJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,85 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestRunnable.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestRunnable.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Thread21/TestRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread21/TestThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-              <folding>
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestSynchronized.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread21/TestSynchronized.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-              <folding>
-                <element signature="e#1255#1256#0" expanded="true" />
-                <element signature="e#1278#1279#0" expanded="true" />
-                <element signature="e#1638#1847#0" expanded="true" />
-                <element signature="e#1846#1847#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestSynchronizedBlock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread21/TestSynchronizedBlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="88" selection-end-column="18" />
-              <folding>
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="method#doTest2#0;class#TestSynchronizedBlock#0" expanded="false" />
-                <element signature="e#1572#1795#0" expanded="true" />
-                <element signature="e#1794#1795#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDeadLock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread21/TestDeadLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="59" selection-end-column="18" />
-              <folding>
-                <element signature="method#doTest#0;class#TestDeadLock#0" expanded="false" />
-                <element signature="e#1014#1202#0" expanded="true" />
-                <element signature="e#1201#1202#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestWait.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Thread21/TestWait.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6829971">
-              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-              <folding>
-                <element signature="e#566#780#0" expanded="true" />
-                <element signature="e#779#780#0" expanded="true" />
-                <element signature="e#814#1000#0" expanded="true" />
-                <element signature="e#999#1000#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -190,9 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,12 +168,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JWX" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -805,11 +731,12 @@
       <workItem from="1523149862520" duration="18429000" />
       <workItem from="1523236484891" duration="2977000" />
       <workItem from="1523408879902" duration="24320000" />
+      <workItem from="1523512038624" duration="12959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96872000" />
+    <option name="totallyTimeSpent" value="109831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
@@ -831,7 +758,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39858907" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -890,21 +817,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/ExB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="44" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/initialization05/TestJvm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -921,7 +833,6 @@
             <element signature="docComment;method#yield#0;class#Thread#0" expanded="false" />
             <element signature="docComment;method#sleep#0;class#Thread#0" expanded="false" />
             <element signature="docComment;method#sleep#1;class#Thread#0" expanded="false" />
-            <element signature="method#sleep#1;class#Thread#0" expanded="false" />
             <element signature="docComment;method#init#0;class#Thread#0" expanded="false" />
             <element signature="method#init#0;class#Thread#0" expanded="false" />
             <element signature="docComment;method#init#1;class#Thread#0" expanded="false" />
@@ -962,8 +873,6 @@
             <element signature="docComment;method#setName#0;class#Thread#0" expanded="false" />
             <element signature="method#setName#0;class#Thread#0" expanded="false" />
             <element signature="docComment;method#getName#0;class#Thread#0" expanded="false" />
-            <element signature="e#43723#43724#0" expanded="false" />
-            <element signature="e#43750#43751#0" expanded="false" />
             <element signature="docComment;method#getThreadGroup#0;class#Thread#0" expanded="false" />
             <element signature="docComment;method#activeCount#0;class#Thread#0" expanded="false" />
             <element signature="docComment;method#enumerate#0;class#Thread#0" expanded="false" />
@@ -1106,13 +1015,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1148,13 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="480" column="21" selection-start-line="480" selection-start-column="21" selection-end-line="480" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hao/String13/TestNull.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3939394">
@@ -1166,13 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="133" column="50" selection-start-line="133" selection-start-column="50" selection-end-line="133" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="371" column="7" selection-start-line="371" selection-start-column="7" selection-end-line="371" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1258,14 +1146,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3846154">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33241758">
-          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1461,25 +1341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread21/TestRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread21/TestThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Thread21/TestVolatile01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1490,26 +1351,241 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread21/TestSynchronized.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3314121">
+          <caret line="819" column="16" selection-start-line="819" selection-start-column="16" selection-end-line="819" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5416667">
+          <caret line="1467" column="31" selection-start-line="1467" selection-start-column="31" selection-end-line="1467" selection-end-column="31" />
+          <folding>
+            <element signature="docComment;class#String#0" expanded="false" />
+            <element signature="docComment;field#value#0;class#String#0" expanded="false" />
+            <element signature="docComment;field#hash#0;class#String#0" expanded="false" />
+            <element signature="docComment;field#serialVersionUID#0;class#String#0" expanded="false" />
+            <element signature="docComment;field#serialPersistentFields#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#1;class#String#0" expanded="false" />
+            <element signature="method#String#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#2;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#3;class#String#0" expanded="false" />
+            <element signature="method#String#3;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#4;class#String#0" expanded="false" />
+            <element signature="method#String#4;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#5;class#String#0" expanded="false" />
+            <element signature="method#String#5;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#6;class#String#0" expanded="false" />
+            <element signature="method#checkBounds#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#7;class#String#0" expanded="false" />
+            <element signature="method#String#7;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#8;class#String#0" expanded="false" />
+            <element signature="method#String#8;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#9;class#String#0" expanded="false" />
+            <element signature="method#String#9;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#10;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#11;class#String#0" expanded="false" />
+            <element signature="method#String#11;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#12;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#13;class#String#0" expanded="false" />
+            <element signature="method#String#13;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#14;class#String#0" expanded="false" />
+            <element signature="method#String#15;class#String#0" expanded="false" />
+            <element signature="docComment;method#length#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#charAt#0;class#String#0" expanded="false" />
+            <element signature="method#charAt#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#codePointAt#0;class#String#0" expanded="false" />
+            <element signature="method#codePointAt#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#codePointBefore#0;class#String#0" expanded="false" />
+            <element signature="method#codePointBefore#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#codePointCount#0;class#String#0" expanded="false" />
+            <element signature="method#codePointCount#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#offsetByCodePoints#0;class#String#0" expanded="false" />
+            <element signature="method#offsetByCodePoints#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#getChars#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#getChars#1;class#String#0" expanded="false" />
+            <element signature="method#getChars#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#getBytes#0;class#String#0" expanded="false" />
+            <element signature="method#getBytes#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#getBytes#1;class#String#0" expanded="false" />
+            <element signature="method#getBytes#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#getBytes#2;class#String#0" expanded="false" />
+            <element signature="method#getBytes#2;class#String#0" expanded="false" />
+            <element signature="docComment;method#getBytes#3;class#String#0" expanded="false" />
+            <element signature="docComment;method#contentEquals#0;class#String#0" expanded="false" />
+            <element signature="method#nonSyncContentEquals#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#contentEquals#1;class#String#0" expanded="false" />
+            <element signature="method#contentEquals#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#equalsIgnoreCase#0;class#String#0" expanded="false" />
+            <element signature="method#equalsIgnoreCase#0;class#String#0" expanded="false" />
+            <element signature="method#compareTo#0;class#String#0" expanded="false" />
+            <element signature="docComment;field#CASE_INSENSITIVE_ORDER#0;class#String#0" expanded="false" />
+            <element signature="class#CaseInsensitiveComparator#0;class#String#0" expanded="false" />
+            <element signature="method#compare#0;class#CaseInsensitiveComparator#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#readResolve#0;class#CaseInsensitiveComparator#0;class#String#0" expanded="false" />
+            <element signature="method#readResolve#0;class#CaseInsensitiveComparator#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#compareToIgnoreCase#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#regionMatches#0;class#String#0" expanded="false" />
+            <element signature="method#regionMatches#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#regionMatches#1;class#String#0" expanded="false" />
+            <element signature="method#regionMatches#1;class#String#0" expanded="false" />
+            <element signature="e#52980#53033#0" expanded="false" />
+            <element signature="e#53402#53466#0" expanded="false" />
+            <element signature="docComment;method#startsWith#0;class#String#0" expanded="false" />
+            <element signature="method#startsWith#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#startsWith#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#endsWith#0;class#String#0" expanded="false" />
+            <element signature="method#indexOf#1;class#String#0" expanded="false" />
+            <element signature="e#60775#60829#0" expanded="false" />
+            <element signature="docComment;method#indexOfSupplementary#0;class#String#0" expanded="false" />
+            <element signature="method#indexOfSupplementary#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#1;class#String#0" expanded="false" />
+            <element signature="method#lastIndexOf#1;class#String#0" expanded="false" />
+            <element signature="e#64802#64856#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOfSupplementary#0;class#String#0" expanded="false" />
+            <element signature="method#lastIndexOfSupplementary#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#indexOf#2;class#String#0" expanded="false" />
+            <element signature="docComment;method#indexOf#3;class#String#0" expanded="false" />
+            <element signature="method#indexOf#3;class#String#0" expanded="false" />
+            <element signature="docComment;method#indexOf#4;class#String#0" expanded="false" />
+            <element signature="method#indexOf#4;class#String#0" expanded="false" />
+            <element signature="docComment;method#indexOf#5;class#String#0" expanded="false" />
+            <element signature="method#indexOf#5;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#2;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#3;class#String#0" expanded="false" />
+            <element signature="method#lastIndexOf#3;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#4;class#String#0" expanded="false" />
+            <element signature="method#lastIndexOf#4;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#5;class#String#0" expanded="false" />
+            <element signature="method#lastIndexOf#5;class#String#0" expanded="false" />
+            <element signature="docComment;method#substring#0;class#String#0" expanded="false" />
+            <element signature="method#substring#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#substring#1;class#String#0" expanded="false" />
+            <element signature="method#substring#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#subSequence#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#concat#0;class#String#0" expanded="false" />
+            <element signature="method#concat#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#replace#0;class#String#0" expanded="false" />
+            <element signature="method#replace#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#matches#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#replaceFirst#0;class#String#0" expanded="false" />
+            <element signature="method#replaceFirst#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#replaceAll#0;class#String#0" expanded="false" />
+            <element signature="method#replaceAll#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#replace#1;class#String#0" expanded="false" />
+            <element signature="method#replace#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#split#0;class#String#0" expanded="false" />
+            <element signature="method#split#0;class#String#0" expanded="false" />
+            <element signature="e#92274#92285#0" expanded="false" />
+            <element signature="docComment;method#split#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#join#0;class#String#0" expanded="false" />
+            <element signature="method#join#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#join#1;class#String#0" expanded="false" />
+            <element signature="method#join#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#toLowerCase#0;class#String#0" expanded="false" />
+            <element signature="method#toLowerCase#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#toLowerCase#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#toUpperCase#0;class#String#0" expanded="false" />
+            <element signature="method#toUpperCase#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#toUpperCase#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#trim#0;class#String#0" expanded="false" />
+            <element signature="method#trim#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#toCharArray#0;class#String#0" expanded="false" />
+            <element signature="method#toCharArray#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#format#0;class#String#0" expanded="false" />
+            <element signature="method#format#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#format#1;class#String#0" expanded="false" />
+            <element signature="method#format#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#2;class#String#0" expanded="false" />
+            <element signature="docComment;method#copyValueOf#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#copyValueOf#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#3;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#4;class#String#0" expanded="false" />
+            <element signature="method#valueOf#4;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#5;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#6;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#7;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#8;class#String#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31123918">
+          <caret line="98" column="7" selection-start-line="98" selection-start-column="7" selection-end-line="98" selection-end-column="7" />
+          <folding>
+            <element signature="docComment;class#Object#0" expanded="false" />
+            <element signature="initializer##0;class#Object#0" expanded="false" />
+            <element signature="docComment;method#getClass#0;class#Object#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#Object#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#Object#0" expanded="false" />
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="docComment;method#clone#0;class#Object#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Object#0" expanded="false" />
+            <element signature="docComment;method#notify#0;class#Object#0" expanded="false" />
+            <element signature="docComment;method#notifyAll#0;class#Object#0" expanded="false" />
+            <element signature="docComment;method#wait#0;class#Object#0" expanded="false" />
+            <element signature="docComment;method#wait#1;class#Object#0" expanded="false" />
+            <element signature="docComment;method#wait#2;class#Object#0" expanded="false" />
+            <element signature="method#wait#2;class#Object#0" expanded="false" />
+            <element signature="docComment;method#finalize#0;class#Object#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
           <folding>
-            <element signature="e#1255#1256#0" expanded="true" />
-            <element signature="e#1278#1279#0" expanded="true" />
-            <element signature="e#1638#1847#0" expanded="true" />
-            <element signature="e#1846#1847#0" expanded="true" />
+            <element signature="e#5644#5645#0" expanded="true" />
+            <element signature="e#5675#5676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="50" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
+          <folding>
+            <element signature="e#953#1188#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1204#1439#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1455#1691#0" expanded="true" />
+            <element signature="e#1690#1691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestDeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.518732">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <element signature="method#doTest#0;class#TestDeadLock#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thread21/TestSynchronizedBlock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="88" selection-end-column="18" />
+        <state vertical-scroll-proportion="3.112392">
+          <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
           <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
             <element signature="method#doTest2#0;class#TestSynchronizedBlock#0" expanded="false" />
             <element signature="e#1572#1795#0" expanded="true" />
             <element signature="e#1794#1795#0" expanded="true" />
@@ -1517,28 +1593,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread21/TestDeadLock.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestSynchronized.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="59" selection-end-column="18" />
-          <folding>
-            <element signature="method#doTest#0;class#TestDeadLock#0" expanded="false" />
-            <element signature="e#1014#1202#0" expanded="true" />
-            <element signature="e#1201#1202#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.69164264">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread21/TestWait.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6829971">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-          <folding>
-            <element signature="e#566#780#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#814#1000#0" expanded="true" />
-            <element signature="e#999#1000#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.44668588">
+          <caret line="477" column="17" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5619597">
+          <caret line="1434" column="45" selection-start-line="1434" selection-start-column="32" selection-end-line="1434" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.057636887">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
