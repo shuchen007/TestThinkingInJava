@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ec5859-09b1-480d-ba92-2f291692fe05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread21/TestThread.java" afterPath="$PROJECT_DIR$/src/Thread21/TestThread.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Thread21/TestWait.java" afterPath="$PROJECT_DIR$/src/Thread21/TestWait.java" />
     </list>
     <ignored path="TestThinkingInJava.iws" />
@@ -26,12 +26,119 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestRunnable.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestRunnable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Thread21/TestRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="method#main#0;class#TestRunnable#0" expanded="false" />
+                <element signature="class#TestRunnable1#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestThreadGroup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread21/TestThreadGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="e#155#464#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread21/TestThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestInterrupt.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Thread21/TestInterrupt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.59654176">
+              <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+              <folding>
+                <element signature="e#264#900#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCustomerProducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread21/TestCustomerProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="32" />
+              <folding>
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#1162#1270#0" expanded="true" />
+                <element signature="e#1269#1270#0" expanded="true" />
+                <element signature="e#1286#1394#0" expanded="true" />
+                <element signature="e#1393#1394#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestWait.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread21/TestWait.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadLocalThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread21/ThreadLocalThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestReentrantLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread21/TestReentrantLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1029#1098#0" expanded="true" />
+                <element signature="e#1097#1098#0" expanded="true" />
+                <element signature="e#1127#1195#0" expanded="true" />
+                <element signature="e#1194#1195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReentrantLock.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.016949">
+              <caret line="219" column="31" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="31" />
+              <folding>
+                <element signature="e#8451#8452#0" expanded="true" />
+                <element signature="e#8515#8516#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,12 +178,18 @@
         <option value="$PROJECT_DIR$/src/Thread21/TestVolatile.java" />
         <option value="$PROJECT_DIR$/src/com/hao/class14/TestComparatorAndComparable.java" />
         <option value="$PROJECT_DIR$/src/com/hao/class14/TestCloneable.java" />
-        <option value="$PROJECT_DIR$/src/Thread21/TestThread.java" />
         <option value="$PROJECT_DIR$/src/Thread21/TestSynchronized.java" />
         <option value="$PROJECT_DIR$/src/Thread21/TestVolatile01.java" />
         <option value="$PROJECT_DIR$/src/Thread21/TestSynchronizedBlock.java" />
         <option value="$PROJECT_DIR$/src/Thread21/TestDeadLock.java" />
+        <option value="$PROJECT_DIR$/src/Thread21/TestThread.java" />
         <option value="$PROJECT_DIR$/src/Thread21/TestWait.java" />
+        <option value="$PROJECT_DIR$/src/Thread21/Tools.java" />
+        <option value="$PROJECT_DIR$/src/Thread21/ThreadLocalThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread21/TestReentrantLock.java" />
+        <option value="$PROJECT_DIR$/src/Thread21/TestCustomerProducer.java" />
+        <option value="$PROJECT_DIR$/src/Thread21/TestThreadGroup.java" />
+        <option value="$PROJECT_DIR$/src/Thread21/TestInterrupt.java" />
       </list>
     </option>
   </component>
@@ -116,6 +229,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -166,11 +282,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread21" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestThread.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread21" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRunnable.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,15 +340,15 @@
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TestWait">
-    <configuration default="false" name="TestSynchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestInterrupt">
+    <configuration default="false" name="ThreadLocalThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Thread21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread21.TestSynchronized" />
+      <option name="MAIN_CLASS_NAME" value="Thread21.ThreadLocalThread" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -204,14 +361,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TestSynchronizedBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestReentrantLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Thread21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread21.TestSynchronizedBlock" />
+      <option name="MAIN_CLASS_NAME" value="Thread21.TestReentrantLock" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -224,14 +381,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TestVolatile01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestCustomerProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Thread21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread21.TestVolatile01" />
+      <option name="MAIN_CLASS_NAME" value="Thread21.TestCustomerProducer" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -244,14 +401,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TestDeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestThreadGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Thread21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread21.TestDeadLock" />
+      <option name="MAIN_CLASS_NAME" value="Thread21.TestThreadGroup" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -264,14 +421,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TestWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Thread21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Thread21.TestWait" />
+      <option name="MAIN_CLASS_NAME" value="Thread21.TestInterrupt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -695,19 +852,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestSynchronized" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestSynchronizedBlock" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestVolatile01" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestDeadLock" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestWait" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ThreadLocalThread" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestReentrantLock" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestCustomerProducer" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestThreadGroup" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestInterrupt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestWait" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestDeadLock" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestVolatile01" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestSynchronizedBlock" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestSynchronized" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestInterrupt" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestThreadGroup" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestCustomerProducer" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestReentrantLock" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ThreadLocalThread" />
       </list>
     </recent_temporary>
   </component>
@@ -732,11 +889,12 @@
       <workItem from="1523236484891" duration="2977000" />
       <workItem from="1523408879902" duration="24320000" />
       <workItem from="1523512038624" duration="12959000" />
+      <workItem from="1523582449687" duration="20739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109831000" />
+    <option name="totallyTimeSpent" value="130570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
@@ -817,204 +975,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="138" column="3" selection-start-line="138" selection-start-column="3" selection-end-line="138" selection-end-column="3" />
-          <folding>
-            <element signature="docComment;class#Thread#0" expanded="false" />
-            <element signature="initializer##0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#parkBlocker#0;class#Thread#0" expanded="false" />
-            <element signature="method#blockedOn#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#MIN_PRIORITY#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#NORM_PRIORITY#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#MAX_PRIORITY#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#currentThread#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#yield#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#sleep#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#sleep#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#init#0;class#Thread#0" expanded="false" />
-            <element signature="method#init#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#init#1;class#Thread#0" expanded="false" />
-            <element signature="method#init#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#clone#0;class#Thread#0" expanded="false" />
-            <element signature="method#clone#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#2;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#3;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#4;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#5;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#6;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#7;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#8;class#Thread#0" expanded="false" />
-            <element signature="method#Thread#8;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#start#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#run#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#exit#0;class#Thread#0" expanded="false" />
-            <element signature="method#exit#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#stop#0;class#Thread#0" expanded="false" />
-            <element signature="method#stop#0;class#Thread#0" expanded="false" />
-            <element signature="e#32266#32329#0" expanded="false" />
-            <element signature="docComment;method#stop#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#interrupt#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#interrupted#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isInterrupted#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isInterrupted#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#destroy#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isAlive#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#suspend#0;class#Thread#0" expanded="false" />
-            <element signature="method#suspend#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#resume#0;class#Thread#0" expanded="false" />
-            <element signature="method#resume#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setPriority#0;class#Thread#0" expanded="false" />
-            <element signature="method#setPriority#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getPriority#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setName#0;class#Thread#0" expanded="false" />
-            <element signature="method#setName#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getName#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getThreadGroup#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#activeCount#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#enumerate#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#countStackFrames#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#join#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#join#1;class#Thread#0" expanded="false" />
-            <element signature="method#join#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#join#2;class#Thread#0" expanded="false" />
-            <element signature="method#join#2;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#dumpStack#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setDaemon#0;class#Thread#0" expanded="false" />
-            <element signature="method#setDaemon#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isDaemon#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#checkAccess#0;class#Thread#0" expanded="false" />
-            <element signature="method#checkAccess#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#Thread#0" expanded="false" />
-            <element signature="method#toString#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="method#getContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="method#setContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#holdsLock#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getStackTrace#0;class#Thread#0" expanded="false" />
-            <element signature="method#getStackTrace#0;class#Thread#0" expanded="false" />
-            <element signature="e#59088#59150#0" expanded="false" />
-            <element signature="e#59455#59523#0" expanded="false" />
-            <element signature="docComment;method#getAllStackTraces#0;class#Thread#0" expanded="false" />
-            <element signature="method#getAllStackTraces#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#subclassAudits#0;class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#subclassAuditsQueue#0;class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isCCLOverridden#0;class#Thread#0" expanded="false" />
-            <element signature="method#isCCLOverridden#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#auditSubclass#0;class#Thread#0" expanded="false" />
-            <element signature="method#auditSubclass#0;class#Thread#0" expanded="false" />
-            <element signature="class#64296:65199" expanded="false" />
-            <element signature="method#run#0;class#64296:65199" expanded="false" />
-            <element signature="docComment;method#getId#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#NEW#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#RUNNABLE#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#BLOCKED#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#WAITING#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#TIMED_WAITING#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#TERMINATED#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getState#0;class#Thread#0" expanded="false" />
-            <element signature="method#getState#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#uncaughtException#0;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#dispatchUncaughtException#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#processQueue#0;class#Thread#0" expanded="false" />
-            <element signature="method#processQueue#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#hash#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#hashCode#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="e#77771#77840#0" expanded="false" />
-            <element signature="docComment;field#threadLocalRandomSeed#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#threadLocalRandomProbe#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#threadLocalRandomSecondarySeed#0;class#Thread#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/innerClass10/NoNameInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/class14/TestComparatorAndComparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="371" column="7" selection-start-line="371" selection-start-column="7" selection-end-line="371" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="133" column="50" selection-start-line="133" selection-start-column="50" selection-end-line="133" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="480" column="21" selection-start-line="480" selection-start-column="21" selection-end-line="480" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="148" column="7" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hao/innerClass10/TestInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.110192835">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1203,141 +1163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50432277">
-          <caret line="745" column="9" selection-start-line="745" selection-start-column="9" selection-end-line="745" selection-end-column="9" />
-          <folding>
-            <element signature="docComment;class#Thread#0" expanded="false" />
-            <element signature="initializer##0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#parkBlocker#0;class#Thread#0" expanded="false" />
-            <element signature="method#blockedOn#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#MIN_PRIORITY#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#NORM_PRIORITY#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#MAX_PRIORITY#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#currentThread#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#yield#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#sleep#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#sleep#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#init#0;class#Thread#0" expanded="false" />
-            <element signature="method#init#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#init#1;class#Thread#0" expanded="false" />
-            <element signature="method#init#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#clone#0;class#Thread#0" expanded="false" />
-            <element signature="method#clone#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#2;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#3;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#4;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#5;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#6;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#7;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#8;class#Thread#0" expanded="false" />
-            <element signature="method#Thread#8;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#start#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#run#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#exit#0;class#Thread#0" expanded="false" />
-            <element signature="method#exit#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#stop#0;class#Thread#0" expanded="false" />
-            <element signature="method#stop#0;class#Thread#0" expanded="false" />
-            <element signature="e#32266#32329#0" expanded="false" />
-            <element signature="docComment;method#stop#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#interrupt#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#interrupted#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isInterrupted#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isInterrupted#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#destroy#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isAlive#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#suspend#0;class#Thread#0" expanded="false" />
-            <element signature="method#suspend#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#resume#0;class#Thread#0" expanded="false" />
-            <element signature="method#resume#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setPriority#0;class#Thread#0" expanded="false" />
-            <element signature="method#setPriority#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getPriority#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setName#0;class#Thread#0" expanded="false" />
-            <element signature="method#setName#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getName#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getThreadGroup#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#activeCount#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#enumerate#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#countStackFrames#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#join#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#join#1;class#Thread#0" expanded="false" />
-            <element signature="method#join#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#join#2;class#Thread#0" expanded="false" />
-            <element signature="method#join#2;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#dumpStack#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setDaemon#0;class#Thread#0" expanded="false" />
-            <element signature="method#setDaemon#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isDaemon#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#checkAccess#0;class#Thread#0" expanded="false" />
-            <element signature="method#checkAccess#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#Thread#0" expanded="false" />
-            <element signature="method#toString#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="method#getContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="method#setContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#holdsLock#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getStackTrace#0;class#Thread#0" expanded="false" />
-            <element signature="method#getStackTrace#0;class#Thread#0" expanded="false" />
-            <element signature="e#59088#59150#0" expanded="false" />
-            <element signature="e#59455#59523#0" expanded="false" />
-            <element signature="docComment;method#getAllStackTraces#0;class#Thread#0" expanded="false" />
-            <element signature="method#getAllStackTraces#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#subclassAudits#0;class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#subclassAuditsQueue#0;class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isCCLOverridden#0;class#Thread#0" expanded="false" />
-            <element signature="method#isCCLOverridden#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#auditSubclass#0;class#Thread#0" expanded="false" />
-            <element signature="method#auditSubclass#0;class#Thread#0" expanded="false" />
-            <element signature="class#64296:65199" expanded="false" />
-            <element signature="method#run#0;class#64296:65199" expanded="false" />
-            <element signature="docComment;method#getId#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#NEW#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#RUNNABLE#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#BLOCKED#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#WAITING#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#TIMED_WAITING#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#TERMINATED#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getState#0;class#Thread#0" expanded="false" />
-            <element signature="method#getState#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#uncaughtException#0;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#dispatchUncaughtException#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#processQueue#0;class#Thread#0" expanded="false" />
-            <element signature="method#processQueue#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#hash#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#hashCode#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="e#77771#77840#0" expanded="false" />
-            <element signature="docComment;field#threadLocalRandomSeed#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#threadLocalRandomProbe#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#threadLocalRandomSecondarySeed#0;class#Thread#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1530,8 +1355,8 @@
             <element signature="docComment;method#getClass#0;class#Object#0" expanded="false" />
             <element signature="docComment;method#hashCode#0;class#Object#0" expanded="false" />
             <element signature="docComment;method#equals#0;class#Object#0" expanded="false" />
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="e#5748#5749#0" expanded="false" />
+            <element signature="e#5784#5785#0" expanded="false" />
             <element signature="docComment;method#clone#0;class#Object#0" expanded="false" />
             <element signature="docComment;method#toString#0;class#Object#0" expanded="false" />
             <element signature="docComment;method#notify#0;class#Object#0" expanded="false" />
@@ -1549,25 +1374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
-          <folding>
-            <element signature="e#5644#5645#0" expanded="true" />
-            <element signature="e#5675#5676#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread21/TestWait.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="50" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
-          <folding>
-            <element signature="e#953#1188#0" expanded="true" />
-            <element signature="e#1187#1188#0" expanded="true" />
-            <element signature="e#1204#1439#0" expanded="true" />
-            <element signature="e#1438#1439#0" expanded="true" />
-            <element signature="e#1455#1691#0" expanded="true" />
-            <element signature="e#1690#1691#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1587,8 +1393,8 @@
           <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
           <folding>
             <element signature="method#doTest2#0;class#TestSynchronizedBlock#0" expanded="false" />
-            <element signature="e#1572#1795#0" expanded="true" />
-            <element signature="e#1794#1795#0" expanded="true" />
+            <element signature="e#1572#1795#0" expanded="false" />
+            <element signature="e#1794#1795#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1613,23 +1419,336 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5619597">
           <caret line="1434" column="45" selection-start-line="1434" selection-start-column="32" selection-end-line="1434" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+          <folding>
+            <element signature="e#179#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1666666">
+          <caret line="223" column="0" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;field#nextHashCode#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;field#HASH_INCREMENT#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#nextHashCode#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#withInitial#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#withInitial#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#ThreadLocal#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#ThreadLocal#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#setInitialValue#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#setInitialValue#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#set#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#getMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="e#7765#7766#0" expanded="false" />
+            <element signature="e#7802#7803#0" expanded="false" />
+            <element signature="docComment;method#createMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="e#8068#8069#0" expanded="false" />
+            <element signature="e#8137#8138#0" expanded="false" />
+            <element signature="docComment;method#createInheritedMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="e#8486#8487#0" expanded="false" />
+            <element signature="e#8538#8539#0" expanded="false" />
+            <element signature="docComment;method#childValue#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;class#SuppliedThreadLocal#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="class#SuppliedThreadLocal#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;field#value#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#Entry#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;field#INITIAL_CAPACITY#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;field#table#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;field#size#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;field#threshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#setThreshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#nextIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#prevIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#ThreadLocalMap#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="e#15456#15514#0" expanded="false" />
+            <element signature="docComment;method#replaceStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="e#17888#17945#0" expanded="false" />
+            <element signature="e#18418#18480#0" expanded="false" />
+            <element signature="e#19496#19550#0" expanded="false" />
+            <element signature="docComment;method#expungeStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#expungeStaleEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="e#21511#21562#0" expanded="false" />
+            <element signature="docComment;method#rehash#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#rehash#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#resize#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#resize#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="docComment;method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+            <element signature="method#expungeStaleEntries#0;class#ThreadLocalMap#0;class#ThreadLocal#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36050156">
+          <caret line="358" column="21" selection-start-line="358" selection-start-column="21" selection-end-line="358" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread21/TestThread.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.057636887">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.389049">
+          <caret line="204" column="31" selection-start-line="204" selection-start-column="31" selection-end-line="204" selection-end-column="31" />
+          <folding>
+            <element signature="e#5214#5215#0" expanded="false" />
+            <element signature="e#5290#5291#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.016949">
+          <caret line="219" column="31" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="31" />
+          <folding>
+            <element signature="e#8451#8452#0" expanded="true" />
+            <element signature="e#8515#8516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1029#1098#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1127#1195#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/ThreadLocalThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestCustomerProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="32" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#1162#1270#0" expanded="true" />
+            <element signature="e#1269#1270#0" expanded="true" />
+            <element signature="e#1286#1394#0" expanded="true" />
+            <element signature="e#1393#1394#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thread21/TestRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="method#main#0;class#TestRunnable#0" expanded="false" />
+            <element signature="class#TestRunnable1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#155#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50432277">
+          <caret line="962" column="0" selection-start-line="962" selection-start-column="0" selection-end-line="962" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#Thread#0" expanded="false" />
+            <element signature="initializer##0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#parkBlocker#0;class#Thread#0" expanded="false" />
+            <element signature="method#blockedOn#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#MIN_PRIORITY#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#NORM_PRIORITY#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#MAX_PRIORITY#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#currentThread#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#yield#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#sleep#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#sleep#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#init#0;class#Thread#0" expanded="false" />
+            <element signature="method#init#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#init#1;class#Thread#0" expanded="false" />
+            <element signature="method#init#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#Thread#0" expanded="false" />
+            <element signature="method#clone#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#2;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#3;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#4;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#5;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#6;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#7;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#Thread#8;class#Thread#0" expanded="false" />
+            <element signature="method#Thread#8;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#start#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#run#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#exit#0;class#Thread#0" expanded="false" />
+            <element signature="method#exit#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#stop#0;class#Thread#0" expanded="false" />
+            <element signature="method#stop#0;class#Thread#0" expanded="false" />
+            <element signature="e#32266#32329#0" expanded="false" />
+            <element signature="docComment;method#stop#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#interrupt#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#interrupted#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isInterrupted#0;class#Thread#0" expanded="false" />
+            <element signature="e#37058#37059#0" expanded="true" />
+            <element signature="e#37101#37102#0" expanded="true" />
+            <element signature="docComment;method#isInterrupted#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#destroy#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isAlive#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#suspend#0;class#Thread#0" expanded="false" />
+            <element signature="method#suspend#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#resume#0;class#Thread#0" expanded="false" />
+            <element signature="method#resume#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setPriority#0;class#Thread#0" expanded="false" />
+            <element signature="method#setPriority#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getPriority#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setName#0;class#Thread#0" expanded="false" />
+            <element signature="method#setName#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getThreadGroup#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#activeCount#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#enumerate#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#countStackFrames#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#join#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#join#1;class#Thread#0" expanded="false" />
+            <element signature="method#join#1;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#join#2;class#Thread#0" expanded="false" />
+            <element signature="method#join#2;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#dumpStack#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setDaemon#0;class#Thread#0" expanded="false" />
+            <element signature="method#setDaemon#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isDaemon#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#checkAccess#0;class#Thread#0" expanded="false" />
+            <element signature="method#checkAccess#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Thread#0" expanded="false" />
+            <element signature="method#toString#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="method#getContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="method#setContextClassLoader#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#holdsLock#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getStackTrace#0;class#Thread#0" expanded="false" />
+            <element signature="method#getStackTrace#0;class#Thread#0" expanded="false" />
+            <element signature="e#59088#59150#0" expanded="false" />
+            <element signature="e#59455#59523#0" expanded="false" />
+            <element signature="docComment;method#getAllStackTraces#0;class#Thread#0" expanded="false" />
+            <element signature="method#getAllStackTraces#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#subclassAudits#0;class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#subclassAuditsQueue#0;class#Caches#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#isCCLOverridden#0;class#Thread#0" expanded="false" />
+            <element signature="method#isCCLOverridden#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#auditSubclass#0;class#Thread#0" expanded="false" />
+            <element signature="method#auditSubclass#0;class#Thread#0" expanded="false" />
+            <element signature="class#64296:65199" expanded="false" />
+            <element signature="method#run#0;class#64296:65199" expanded="false" />
+            <element signature="docComment;method#getId#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#NEW#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#RUNNABLE#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#BLOCKED#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#WAITING#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#TIMED_WAITING#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#TERMINATED#0;class#State#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getState#0;class#Thread#0" expanded="false" />
+            <element signature="method#getState#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#uncaughtException#0;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#dispatchUncaughtException#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#processQueue#0;class#Thread#0" expanded="false" />
+            <element signature="method#processQueue#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#hash#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
+            <element signature="e#77771#77840#0" expanded="false" />
+            <element signature="docComment;field#threadLocalRandomSeed#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#threadLocalRandomProbe#0;class#Thread#0" expanded="false" />
+            <element signature="docComment;field#threadLocalRandomSecondarySeed#0;class#Thread#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread21/TestInterrupt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59654176">
+          <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+          <folding>
+            <element signature="e#264#900#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

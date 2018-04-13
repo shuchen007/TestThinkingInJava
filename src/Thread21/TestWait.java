@@ -59,7 +59,7 @@ public class TestWait {
 			public void run() {
 				super.run();
 				try {
-					testWait.doTest("fdsf");
+					testWait.doTest2("fdsf");
 					System.out.println("2=" + this.getState());
 				} catch (InterruptedException e) {
 					e.printStackTrace();
@@ -78,19 +78,22 @@ public class TestWait {
 				}
 			}
 		};
-		t1.start();
-		Thread.sleep(3000);
-//		t1.interrupt();
 		System.out.println(t1.getState());
+		t1.start();
+		System.out.println(t1.getState());
+		Thread.sleep(500);
+		System.out.println(t1.getState());
+//		t1.interrupt();
 //		t2.start();
-		Thread.sleep(1000);
+		Thread.sleep(4000);
 		System.out.println("a= "+t1.getState());
 		t3.start();
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 		System.out.println("a= "+t1.getState());
 //		System.out.println(t1.isInterrupted());
 //		t1.interrupt();
 //		System.out.println(t1.isInterrupted());
+		Thread.sleep(2200);
 		System.out.println("a= "+t1.getState());
 		String x = "a";
 		System.out.println(x.hashCode());

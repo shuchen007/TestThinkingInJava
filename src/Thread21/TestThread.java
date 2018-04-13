@@ -20,31 +20,32 @@ public class TestThread extends Thread {
 
 
     public static void main(String[] args) throws InterruptedException {
-        MyThread03 mt = new MyThread03();
-        System.out.println(Thread.currentThread().getName()+"--begin == " + mt.isAlive());
-        mt.setName("-sunT-");
-        mt.start();
-//        mt.run();
-//        Thread.sleep(100);//睡眠0.1s保证mt中的线程执行完。
-        System.out.println(Thread.currentThread().getName()+"--end == " + mt.isAlive());
-        Thread.currentThread().interrupt();
-        System.out.println("是否停止1？" + Thread.interrupted());
-        System.out.println("是否停止2？" + Thread.interrupted());
-        System.out.println("end!");
-//        try
-//        {
-//            Thread mt = new TestThread1();
-////            mt.setDaemon(true);//设置为守护线程。//设置为守护线程，5s后必定结束。
-//            mt.start();
+//        MyThread03 mt = new MyThread03();
+//        System.out.println(Thread.currentThread().getName()+"--begin == " + mt.isAlive());
+//        mt.setName("-sunT-");
+//        mt.start();
+////        mt.run();
+////        Thread.sleep(100);//睡眠0.1s保证mt中的线程执行完。
+//        System.out.println(Thread.currentThread().getName()+"--end == " + mt.isAlive());
+//        Thread.currentThread().interrupt();
+//        System.out.println("是否停止1？" + Thread.interrupted());
+//        System.out.println("是否停止2？" + Thread.interrupted());
+//        System.out.println("end!");
+        try
+        {
+            Thread mt = new TestThread1();
+//            mt.setDaemon(true);//设置为守护线程。//设置为守护线程，5s后必定结束。
+            mt.start();
 //            Thread.sleep(5000);
-////            mt.join(5000);//等待线程销毁时，再执行。内部调用的是wait()方法
-////            mt.interrupt();
-//            System.out.println("我离开thread对象再也不打印了，我停止了！");
-//        }
-//        catch (InterruptedException e)
-//        {
-//            e.printStackTrace();
-//        }
+            mt.join(5000);//等待线程销毁时，再执行。内部调用的是wait()方法
+            System.out.println("dd"+Thread.currentThread().getName());
+            mt.interrupt();
+            System.out.println("我离开thread对象再也不打印了，我停止了！");
+        }
+        catch (InterruptedException e)
+        {
+            e.printStackTrace();
+        }
     }
 }
 
