@@ -17,6 +17,8 @@ public class TestConnect {
 
         //连接本地的 Redis 服务，String
         Jedis jedis = new Jedis("localhost");
+        //权限认证
+        jedis.auth("root");
         System.out.println("连接成功");
         //设置 redis 字符串数据
         jedis.set("runoobkey", "www.runoob.com1");
@@ -25,6 +27,8 @@ public class TestConnect {
 
         //连接本地的 Redis 服务，Hash
         Jedis jedis1 = new Jedis("localhost");
+        //权限认证
+        jedis1.auth("root");
         System.out.println("连接成功");
         //设置 redis hash数据
         Map hash = new HashMap<String,String>();
@@ -48,6 +52,8 @@ public class TestConnect {
 
         //连接本地的 Redis 服务,set
         Jedis jedis3 = new Jedis("localhost");
+        //权限认证
+        jedis3.auth("root");
         System.out.println("连接成功");
         //存储数据到列表中
         jedis3.sadd("site-set", "Runoob1","google1","taobao1");
@@ -60,6 +66,8 @@ public class TestConnect {
 
         //连接本地的 Redis 服务
         Jedis jedis4 = new Jedis("localhost");
+        //权限认证
+        jedis4.auth("root");
         System.out.println("连接成功");
         // 获取数据并输出
         Set<String> keys = jedis4.keys("*");
