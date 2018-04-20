@@ -5,7 +5,7 @@ package Thread21;
  */
 public class TestVolatile extends Thread {
     private volatile boolean isRunning = true;
-    public  static int count;
+    public static long count;
 
     public void setRunning(boolean running) {
         isRunning = running;

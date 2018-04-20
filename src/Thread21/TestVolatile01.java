@@ -14,24 +14,23 @@ public class TestVolatile01 {
 		Thread t1 = new Thread(new Runnable() {
 			@Override
 			public void run() {
-				for (int i = 0; i < 1000; i++) {
+				for (int i = 0; i < 10000; i++) {
 					a++;
-					System.out.println(a);
+					System.out.println(Thread.currentThread().getName()+a);
 				}
 			}
 		});
 		Thread t3 = new Thread(){
 			@Override
 			public void run() {
-				super.run();
-				for (int i = 0; i < 100; i++) {
-					try {
-						Thread.sleep(1);
-					} catch (InterruptedException e) {
-						e.printStackTrace();
-					}
+				for (int i = 0; i < 10000; i++) {
+//					try {
+//						Thread.sleep(1);
+//					} catch (InterruptedException e) {
+//						e.printStackTrace();
+//					}
 					a++;
-					System.out.println(a);
+					System.out.println(Thread.currentThread().getName()+a);
 				}
 			}
 		};
