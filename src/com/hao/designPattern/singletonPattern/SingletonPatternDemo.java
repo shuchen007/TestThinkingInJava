@@ -18,6 +18,5 @@ public class SingletonPatternDemo {
         //显示消息
         object.showMessage();
         object1.showMessage();
-
     }
 }

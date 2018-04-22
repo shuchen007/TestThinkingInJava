@@ -7,7 +7,7 @@ import java.lang.reflect.Constructor;
  *
  * @描述
  */
-//饿汉式
+//懒汉式在需要的时候才创建，推荐使用饿汉式
 public class SingleObject {
     //创建 SingleObject 的一个对象
     /*1、单例类只能有一个实例。
