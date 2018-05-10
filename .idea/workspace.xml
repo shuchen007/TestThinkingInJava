@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ec5859-09b1-480d-ba92-2f291692fe05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/designPattern/singletonPattern/SingletonPatternDemo.class" afterPath="$PROJECT_DIR$/out/production/testThinkingInJava/com/hao/designPattern/singletonPattern/SingletonPatternDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/testThinkingInJava_jar/testThinkingInJava.jar" afterPath="$PROJECT_DIR$/out/testThinkingInJava_jar/testThinkingInJava.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/TestJava8.java" afterPath="$PROJECT_DIR$/src/com/hao/TestJava8.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/designPattern/singletonPattern/SingleObject.java" afterPath="$PROJECT_DIR$/src/com/hao/designPattern/singletonPattern/SingleObject.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hao/designPattern/singletonPattern/SingletonPatternDemo.java" afterPath="$PROJECT_DIR$/src/com/hao/designPattern/singletonPattern/SingletonPatternDemo.java" />
     </list>
     <ignored path="TestThinkingInJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +24,7 @@
     <favorites_list name="TestThinkingInJava" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,9 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -196,30 +188,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designPattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -788,6 +761,7 @@
       <workItem from="1524117647115" duration="2283000" />
       <workItem from="1524210303424" duration="5985000" />
       <workItem from="1524276024158" duration="15486000" />
+      <workItem from="1525955059275" duration="671000" />
     </task>
     <servers />
   </component>
@@ -809,7 +783,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175237000" />
+    <option name="totallyTimeSpent" value="175908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -817,12 +791,10 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32649574" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33675215" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25113463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -831,16 +803,18 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3982906" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3982906" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32649574" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864675" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="FLOATING" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="854" y="15" width="430" height="147" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33675215" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26533744" sideWeight="0.5116279" order="5" side_tool="true" content_ui="tabs" />
@@ -900,7 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44537815">
           <caret line="477" column="17" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -969,134 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="140" column="27" selection-start-line="140" selection-start-column="27" selection-end-line="140" selection-end-column="27" />
-          <folding>
-            <element signature="docComment;class#Thread#0" expanded="false" />
-            <element signature="initializer##0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#parkBlocker#0;class#Thread#0" expanded="false" />
-            <element signature="method#blockedOn#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#MIN_PRIORITY#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#NORM_PRIORITY#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#MAX_PRIORITY#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#currentThread#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#yield#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#sleep#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#sleep#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#init#0;class#Thread#0" expanded="false" />
-            <element signature="method#init#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#init#1;class#Thread#0" expanded="false" />
-            <element signature="method#init#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#clone#0;class#Thread#0" expanded="false" />
-            <element signature="method#clone#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#2;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#3;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#4;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#5;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#6;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#7;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#Thread#8;class#Thread#0" expanded="false" />
-            <element signature="method#Thread#8;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#start#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#run#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#exit#0;class#Thread#0" expanded="false" />
-            <element signature="method#exit#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#stop#0;class#Thread#0" expanded="false" />
-            <element signature="method#stop#0;class#Thread#0" expanded="false" />
-            <element signature="e#32266#32329#0" expanded="false" />
-            <element signature="docComment;method#stop#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#interrupt#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#interrupted#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isInterrupted#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isInterrupted#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#destroy#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isAlive#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#suspend#0;class#Thread#0" expanded="false" />
-            <element signature="method#suspend#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#resume#0;class#Thread#0" expanded="false" />
-            <element signature="method#resume#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setPriority#0;class#Thread#0" expanded="false" />
-            <element signature="method#setPriority#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getPriority#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setName#0;class#Thread#0" expanded="false" />
-            <element signature="method#setName#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getName#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getThreadGroup#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#activeCount#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#enumerate#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#countStackFrames#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#join#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#join#1;class#Thread#0" expanded="false" />
-            <element signature="method#join#1;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#join#2;class#Thread#0" expanded="false" />
-            <element signature="method#join#2;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#dumpStack#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setDaemon#0;class#Thread#0" expanded="false" />
-            <element signature="method#setDaemon#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isDaemon#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#checkAccess#0;class#Thread#0" expanded="false" />
-            <element signature="method#checkAccess#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#Thread#0" expanded="false" />
-            <element signature="method#toString#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="method#getContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="method#setContextClassLoader#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#holdsLock#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getStackTrace#0;class#Thread#0" expanded="false" />
-            <element signature="method#getStackTrace#0;class#Thread#0" expanded="false" />
-            <element signature="e#59088#59150#0" expanded="false" />
-            <element signature="e#59455#59523#0" expanded="false" />
-            <element signature="docComment;method#getAllStackTraces#0;class#Thread#0" expanded="false" />
-            <element signature="method#getAllStackTraces#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#subclassAudits#0;class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#subclassAuditsQueue#0;class#Caches#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#isCCLOverridden#0;class#Thread#0" expanded="false" />
-            <element signature="method#isCCLOverridden#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#auditSubclass#0;class#Thread#0" expanded="false" />
-            <element signature="method#auditSubclass#0;class#Thread#0" expanded="false" />
-            <element signature="class#64296:65199" expanded="false" />
-            <element signature="method#run#0;class#64296:65199" expanded="false" />
-            <element signature="docComment;method#getId#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#NEW#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#RUNNABLE#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#BLOCKED#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#WAITING#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#TIMED_WAITING#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#TERMINATED#0;class#State#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getState#0;class#Thread#0" expanded="false" />
-            <element signature="method#getState#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#uncaughtException#0;class#UncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#setDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#getDefaultUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#getUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="method#setUncaughtExceptionHandler#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#dispatchUncaughtException#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#processQueue#0;class#Thread#0" expanded="false" />
-            <element signature="method#processQueue#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#hash#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="method#WeakClassKey#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#hashCode#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="method#equals#0;class#WeakClassKey#0;class#Thread#0" expanded="false" />
-            <element signature="e#77771#77840#0" expanded="false" />
-            <element signature="docComment;field#threadLocalRandomSeed#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#threadLocalRandomProbe#0;class#Thread#0" expanded="false" />
-            <element signature="docComment;field#threadLocalRandomSecondarySeed#0;class#Thread#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1111,9 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#1311#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1133,12 +975,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#2789#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#2712#2713#0" expanded="false" />
-            <element signature="e#2785#2786#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1146,47 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="438" column="0" selection-start-line="438" selection-start-column="0" selection-end-line="438" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#22438#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="docComment;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#compare#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#equals#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#reversed#0;class#Comparator#0" expanded="false" />
-            <element signature="e#7819#7820#0" expanded="false" />
-            <element signature="e#7872#7873#0" expanded="false" />
-            <element signature="docComment;method#thenComparing#0;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparing#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparing#1;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparing#1;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparing#2;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparing#2;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparingInt#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparingLong#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" expanded="false" />
-            <element signature="method#thenComparingDouble#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#reverseOrder#0;class#Comparator#0" expanded="false" />
-            <element signature="e#14106#14107#0" expanded="false" />
-            <element signature="e#14155#14156#0" expanded="false" />
-            <element signature="docComment;method#naturalOrder#0;class#Comparator#0" expanded="false" />
-            <element signature="method#naturalOrder#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#nullsFirst#0;class#Comparator#0" expanded="false" />
-            <element signature="method#nullsFirst#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#nullsLast#0;class#Comparator#0" expanded="false" />
-            <element signature="method#nullsLast#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#comparing#0;class#Comparator#0" expanded="false" />
-            <element signature="method#comparing#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#comparing#1;class#Comparator#0" expanded="false" />
-            <element signature="method#comparing#1;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#comparingInt#0;class#Comparator#0" expanded="false" />
-            <element signature="method#comparingInt#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#comparingLong#0;class#Comparator#0" expanded="false" />
-            <element signature="method#comparingLong#0;class#Comparator#0" expanded="false" />
-            <element signature="docComment;method#comparingDouble#0;class#Comparator#0" expanded="false" />
-            <element signature="method#comparingDouble#0;class#Comparator#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1201,184 +996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="95" column="39" selection-start-line="95" selection-start-column="39" selection-end-line="95" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#60600#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="docComment;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;field#lock#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;field#array#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#getArray#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#3391#3392#0" expanded="false" />
-            <element signature="e#3419#3420#0" expanded="false" />
-            <element signature="docComment;method#setArray#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#3497#3498#0" expanded="false" />
-            <element signature="e#3522#3523#0" expanded="false" />
-            <element signature="docComment;method#CopyOnWriteArrayList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#CopyOnWriteArrayList#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#CopyOnWriteArrayList#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#CopyOnWriteArrayList#2;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#4766#4767#0" expanded="false" />
-            <element signature="e#4848#4849#0" expanded="false" />
-            <element signature="docComment;method#size#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#4999#5000#0" expanded="false" />
-            <element signature="e#5039#5040#0" expanded="false" />
-            <element signature="docComment;method#isEmpty#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#5219#5220#0" expanded="false" />
-            <element signature="e#5253#5254#0" expanded="false" />
-            <element signature="docComment;method#eq#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#5370#5371#0" expanded="false" />
-            <element signature="e#5434#5435#0" expanded="false" />
-            <element signature="docComment;method#indexOf#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#indexOf#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#lastIndexOf#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#lastIndexOf#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#contains#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#contains#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#indexOf#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#indexOf#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#indexOf#2;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#indexOf#2;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#lastIndexOf#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#lastIndexOf#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#lastIndexOf#2;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#lastIndexOf#2;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#clone#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#clone#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#toArray#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#toArray#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#toArray#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#toArray#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#13496#13497#0" expanded="false" />
-            <element signature="e#13531#13532#0" expanded="false" />
-            <element signature="docComment;method#get#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#13661#13662#0" expanded="false" />
-            <element signature="e#13706#13707#0" expanded="false" />
-            <element signature="docComment;method#set#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#set#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#add#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#add#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#add#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#add#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#remove#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#remove#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#remove#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#remove#2;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#removeRange#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#removeRange#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#addIfAbsent#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#addIfAbsent#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#addIfAbsent#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#addIfAbsent#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#containsAll#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#containsAll#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#removeAll#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#removeAll#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#retainAll#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#retainAll#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#addAllAbsent#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#addAllAbsent#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#clear#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#clear#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#addAll#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#addAll#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#addAll#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#addAll#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#forEach#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#removeIf#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#replaceAll#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#sort#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#writeObject#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#writeObject#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#readObject#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#readObject#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#36506#36507#0" expanded="false" />
-            <element signature="e#36556#36557#0" expanded="false" />
-            <element signature="docComment;method#equals#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#equals#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#hashCode#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#hashCode#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#iterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#38936#38937#0" expanded="false" />
-            <element signature="e#38992#38993#0" expanded="false" />
-            <element signature="docComment;method#listIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#39369#39370#0" expanded="false" />
-            <element signature="e#39425#39426#0" expanded="false" />
-            <element signature="docComment;method#listIterator#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#listIterator#1;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#spliterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#spliterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="class#COWIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;field#snapshot#0;class#COWIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;field#cursor#0;class#COWIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#COWIterator#0;class#COWIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#41262#41263#0" expanded="false" />
-            <element signature="e#41317#41318#0" expanded="false" />
-            <element signature="e#41357#41358#0" expanded="false" />
-            <element signature="e#41398#41399#0" expanded="false" />
-            <element signature="method#next#0;class#COWIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#previous#0;class#COWIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#41840#41841#0" expanded="false" />
-            <element signature="e#41877#41878#0" expanded="false" />
-            <element signature="e#41915#41916#0" expanded="false" />
-            <element signature="e#41954#41955#0" expanded="false" />
-            <element signature="docComment;method#remove#0;class#COWIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#42207#42208#0" expanded="false" />
-            <element signature="e#42272#42273#0" expanded="false" />
-            <element signature="docComment;method#set#0;class#COWIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#42522#42523#0" expanded="false" />
-            <element signature="e#42587#42588#0" expanded="false" />
-            <element signature="docComment;method#add#0;class#COWIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#42837#42838#0" expanded="false" />
-            <element signature="e#42902#42903#0" expanded="false" />
-            <element signature="method#forEachRemaining#0;class#COWIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;method#subList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#subList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="docComment;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#COWSubList#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#checkForComodification#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#rangeCheck#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#set#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#get#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#size#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#add#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#clear#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#remove#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#remove#1;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#iterator#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#listIterator#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#subList#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#forEach#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#replaceAll#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#sort#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#removeAll#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#retainAll#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#removeIf#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#spliterator#0;class#COWSubList#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="class#COWSubListIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="method#COWSubListIterator#0;class#COWSubListIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#58772#58773#0" expanded="false" />
-            <element signature="e#58821#58822#0" expanded="false" />
-            <element signature="method#next#0;class#COWSubListIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#59028#59029#0" expanded="false" />
-            <element signature="e#59079#59080#0" expanded="false" />
-            <element signature="method#previous#0;class#COWSubListIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#59292#59293#0" expanded="false" />
-            <element signature="e#59346#59347#0" expanded="false" />
-            <element signature="e#59384#59385#0" expanded="false" />
-            <element signature="e#59442#59443#0" expanded="false" />
-            <element signature="e#59474#59475#0" expanded="false" />
-            <element signature="e#59539#59540#0" expanded="false" />
-            <element signature="e#59571#59572#0" expanded="false" />
-            <element signature="e#59636#59637#0" expanded="false" />
-            <element signature="e#59668#59669#0" expanded="false" />
-            <element signature="e#59733#59734#0" expanded="false" />
-            <element signature="method#forEachRemaining#0;class#COWSubListIterator#0;class#CopyOnWriteArrayList#0" expanded="false" />
-            <element signature="e#60120#60121#0" expanded="false" />
-            <element signature="e#60199#60200#0" expanded="false" />
-            <element signature="initializer##0;class#CopyOnWriteArrayList#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1386,476 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.035971224">
           <caret line="267" column="23" selection-start-line="267" selection-start-column="23" selection-end-line="267" selection-end-column="23" />
-          <folding>
-            <element signature="docComment;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#MAXIMUM_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#DEFAULT_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#MAX_ARRAY_SIZE#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#DEFAULT_CONCURRENCY_LEVEL#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#LOAD_FACTOR#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#TREEIFY_THRESHOLD#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#UNTREEIFY_THRESHOLD#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#MIN_TREEIFY_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#MIN_TRANSFER_STRIDE#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#RESIZE_STAMP_BITS#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#MAX_RESIZERS#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#RESIZE_STAMP_SHIFT#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#NCPU#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#serialPersistentFields#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#Node#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getKey#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getValue#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#hashCode#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#toString#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#equals#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#find#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#find#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#spread#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#tableSizeFor#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#tableSizeFor#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#comparableClassFor#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#comparableClassFor#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#compareComparables#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compareComparables#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#tabAt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#casTabAt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#setTabAt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#table#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#nextTable#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#baseCount#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#sizeCtl#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#transferIndex#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#cellsBusy#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;field#counterCells#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#ConcurrentHashMap#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ConcurrentHashMap#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#ConcurrentHashMap#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ConcurrentHashMap#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#ConcurrentHashMap#2;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ConcurrentHashMap#2;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#ConcurrentHashMap#3;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#ConcurrentHashMap#4;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ConcurrentHashMap#4;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#size#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#size#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#isEmpty#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#get#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#get#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#containsKey#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#containsValue#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#containsValue#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#put#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#putVal#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#putVal#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#putAll#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#putAll#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#clear#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#keySet#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#values#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#entrySet#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#hashCode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#hashCode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#toString#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#equals#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#equals#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#Segment#0;class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#writeObject#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#writeObject#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="e#59648#59682#0" expanded="false" />
-            <element signature="docComment;method#readObject#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#readObject#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#putIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#remove#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#replace#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#replace#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#replace#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#replace#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#getOrDefault#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getOrDefault#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEach#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#replaceAll#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#computeIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#computeIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#computeIfPresent#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#compute#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#merge#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#merge#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#contains#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#keys#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#keys#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#elements#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#elements#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#mappingCount#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#mappingCount#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#newKeySet#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#newKeySet#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#newKeySet#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#newKeySet#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#keySet#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#keySet#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ForwardingNode#0;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#find#0;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#ReservationNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ReservationNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#resizeStamp#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#initTable#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#initTable#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#addCount#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#addCount#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#helpTransfer#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#helpTransfer#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#tryPresize#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#tryPresize#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#transfer#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#transfer#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#CounterCell#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#CounterCell#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#CounterCell#0;class#CounterCell#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#sumCount#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#fullAddCount#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#treeifyBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#treeifyBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#untreeify#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#untreeify#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#TreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#findTreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#findTreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#tieBreakOrder#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#tieBreakOrder#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#TreeBin#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#TreeBin#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#lockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#lockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#unlockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#contendedLock#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#contendedLock#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#find#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#find#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#putTreeVal#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#putTreeVal#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#removeTreeNode#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#removeTreeNode#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#rotateLeft#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#rotateRight#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#balanceInsertion#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#balanceDeletion#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#checkInvariants#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#checkInvariants#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="initializer##0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#TableStack#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#TableStack#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#Traverser#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#advance#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#advance#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#pushState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#pushState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#recoverState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#recoverState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#BaseIterator#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#hasNext#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#hasMoreElements#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#KeyIterator#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#next#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#nextElement#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ValueIterator#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#next#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#nextElement#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#EntryIterator#0;class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#next#0;class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapEntry#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getKey#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#hashCode#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#toString#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#equals#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#setValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#setValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#KeySpliterator#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#trySplit#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEachRemaining#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#tryAdvance#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#estimateSize#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#characteristics#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ValueSpliterator#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#trySplit#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEachRemaining#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#tryAdvance#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#estimateSize#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#EntrySpliterator#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#trySplit#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEachRemaining#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#tryAdvance#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#estimateSize#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#characteristics#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#batchFor#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#batchFor#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#forEach#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEach#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#forEach#2;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEach#2;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#search#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#search#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduce#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduce#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceToLong#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceToLong#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceToInt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceToInt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#forEachKey#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEachKey#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#forEachKey#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEachKey#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#searchKeys#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#searchKeys#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceKeys#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceKeys#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceKeys#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceKeys#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceKeysToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceKeysToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceKeysToLong#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceKeysToLong#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceKeysToInt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceKeysToInt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#forEachValue#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEachValue#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#forEachValue#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEachValue#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#searchValues#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#searchValues#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceValues#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceValues#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceValues#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceValues#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceValuesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceValuesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceValuesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceValuesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceValuesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceValuesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#forEachEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEachEntry#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#forEachEntry#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEachEntry#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#searchEntries#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#searchEntries#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceEntries#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceEntries#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceEntries#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceEntries#1;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceEntriesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceEntriesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceEntriesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceEntriesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#reduceEntriesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#reduceEntriesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#CollectionView#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#getMap#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getMap#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#clear#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#clear#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#size#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#isEmpty#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="e#182321#182386#0" expanded="false" />
-            <element signature="docComment;method#iterator#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#toArray#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#toArray#1;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#toString#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#containsAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#removeAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#retainAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#KeySetView#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#getMappedValue#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getMappedValue#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#contains#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#contains#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#remove#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#iterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#iterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#add#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#add#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#addAll#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#addAll#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#hashCode#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#equals#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#spliterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEach#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ValuesView#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#iterator#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#spliterator#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEach#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#EntrySetView#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#contains#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#iterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#iterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#addAll#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#hashCode#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#equals#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#spliterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#forEach#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#BulkTask#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="docComment;method#advance#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#advance#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#pushState#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#recoverState#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ForEachKeyTask#0;class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ForEachValueTask#0;class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ForEachEntryTask#0;class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ForEachMappingTask#0;class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ForEachTransformedKeyTask#0;class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ForEachTransformedValueTask#0;class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ForEachTransformedEntryTask#0;class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ForEachTransformedMappingTask#0;class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#SearchKeysTask#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#SearchValuesTask#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#SearchEntriesTask#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#SearchMappingsTask#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ReduceKeysTask#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ReduceValuesTask#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#ReduceEntriesTask#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceKeysTask#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceValuesTask#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceEntriesTask#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceMappingsTask#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceKeysToDoubleTask#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceValuesToDoubleTask#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceEntriesToDoubleTask#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceMappingsToDoubleTask#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceKeysToLongTask#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceValuesToLongTask#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceEntriesToLongTask#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceMappingsToLongTask#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceKeysToIntTask#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceValuesToIntTask#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceEntriesToIntTask#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#MapReduceMappingsToIntTask#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#getRawResult#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
-            <element signature="initializer##0;class#ConcurrentHashMap#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1863,27 +1010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6115108">
           <caret line="209" column="7" selection-start-line="209" selection-start-column="7" selection-end-line="209" selection-end-column="7" />
-          <folding>
-            <element signature="docComment;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#getOrDefault#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="method#getOrDefault#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#forEach#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="method#forEach#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#putIfAbsent#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#remove#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#replace#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#replace#1;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#replaceAll#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="method#replaceAll#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#computeIfAbsent#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="method#computeIfAbsent#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#computeIfPresent#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="method#computeIfPresent#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#compute#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="method#compute#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="docComment;method#merge#0;class#ConcurrentMap#0" expanded="false" />
-            <element signature="method#merge#0;class#ConcurrentMap#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1901,7 +1027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27855152">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1909,7 +1034,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27855152">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1917,7 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61281335">
           <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1925,7 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5013928">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1933,7 +1055,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44568247">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1941,7 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44289693">
           <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1949,7 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5013928">
           <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1957,7 +1076,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38718662">
           <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1965,7 +1083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1973,10 +1090,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1984,12 +1097,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding>
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1997,7 +1104,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38997215">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2005,7 +1111,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22284123">
           <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2013,7 +1118,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38997215">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2021,11 +1125,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5013928">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2033,10 +1132,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38997215">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2044,9 +1139,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4373259">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2054,7 +1146,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22284123">
           <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2062,7 +1153,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27855152">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2070,12 +1160,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2172702">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2083,10 +1167,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1615599">
           <caret line="9" column="47" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="47" />
-          <folding>
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2094,7 +1174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8356546">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2102,7 +1181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6545961">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2110,7 +1188,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05571031">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2118,7 +1195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2126,7 +1202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27576602">
           <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2134,7 +1209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2142,7 +1216,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2150,10 +1223,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16713092">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
