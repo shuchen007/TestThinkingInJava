@@ -20,7 +20,7 @@ import java.util.function.Consumer;
 
 public class TestJava8 {
 	public static void main(String[] args) {
-		new ConcurrentHashMap<>()
+		new ConcurrentHashMap<>();
 		List<String> list = new Vector<>();
 		list.add("a");
 		list.add("b");
