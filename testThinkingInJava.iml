@@ -9,8 +9,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="httpClient" level="project" />
     <orderEntry type="library" exported="" name="axiom-api-1.2.10" level="project" />
-    <orderEntry type="library" name="axis" level="project" />
-    <orderEntry type="library" name="lib" level="project" />
-    <orderEntry type="library" name="poi" level="project" />
+    <orderEntry type="library" exported="" name="axis" level="project" />
+    <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="library" exported="" name="poi" level="project" />
   </component>
 </module>
