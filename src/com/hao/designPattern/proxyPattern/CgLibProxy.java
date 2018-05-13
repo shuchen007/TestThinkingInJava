@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 
 /**
  * @Author sunhao
- * @Description cglib代理：被代理的对象没有实现接口，且不能为final类型。代理后在内部实现继承被代理的对象。
+ * @Description cglib代理：被代理的对象没有接口，且不能为final类型。代理后在内部实现继承被代理的对象。
  * @Date 10:18 2018/5/10
  * @Modified by
  */

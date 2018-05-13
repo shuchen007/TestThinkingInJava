@@ -42,7 +42,7 @@ public class TestReflect {
             b.do1();
             //创建父类对象
             Class<? super Son> c2 = a.getSuperclass();
-            ((Father)c2.newInstance()).do1();
+//            ((Father)c2.newInstance()).do1();
             //class文件反射查询类的方法，使用invoke调用
             Method[] ee = a.getDeclaredMethods();
             Method[] ee1 = a.getMethods();

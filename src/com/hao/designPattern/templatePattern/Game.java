@@ -18,6 +18,8 @@ public abstract class Game {
         startPlay();
         //结束游戏
         endPlay();
+        //定义公共的方法或动作，继承了这个类的都将共享方法。
+        System.out.println();
     }
     public final void ddo(){
         System.out.println("dodo");
