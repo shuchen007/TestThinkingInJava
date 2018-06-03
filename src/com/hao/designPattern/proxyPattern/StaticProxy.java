@@ -8,10 +8,10 @@ package com.hao.designPattern.proxyPattern;
  */
 
 public class StaticProxy {
-	interface IDinner {
+	 interface IDinner {
 		void eat();
 	}
-	class Dinner implements IDinner{
+	final class Dinner implements IDinner{
 		@Override
 		public void eat() {
 			System.out.println("eat");
