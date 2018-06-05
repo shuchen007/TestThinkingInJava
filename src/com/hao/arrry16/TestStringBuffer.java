@@ -1,6 +1,13 @@
 package com.hao.arrry16;
 
+
+
+import org.apache.commons.lang3.StringUtils;
+
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 /**
  * Created by Administrator on 2018/6/3.
@@ -30,6 +37,10 @@ public class TestStringBuffer {
         System.out.println(str);
         System.out.println(sb);
         int[] a = {2,3,5,2,65,4,1};
+        int ff[] = new int[a.length];
+        ff[0] = a[1];
+        System.out.println(Arrays.toString(sortList(a)));
+        System.out.println(Arrays.toString(selectSort(a)));
         System.out.println(Arrays.toString(sortCheck(a)));
     }
 
@@ -52,16 +63,28 @@ public class TestStringBuffer {
     public static int[] selectSort(int array[]) {
         int t = 0;
         for (int i = 0; i < array.length - 1; i++){
-            int index=i;
+            int index = i;
             for (int j = i + 1; j < array.length; j++)
-                if (array[index] > array[j])
-                    index=j;
-            if(index!=i){ //找到了比array[i]小的则与array[i]交换位置
-                t = array[i];
-                array[i] = array[index];
-                array[index] = t;
-            }
+                if (array[index] < array[j])
+                    index = j;
+                    t = array[i];
+                    array[i] = array[index];
+                    array[index] = t;
         }
         return array;
+    }
+    //利用集合排序
+    public static  int[] sortList(int[] x){
+        List<Integer> list = new ArrayList<Integer>();
+        for(int a: x){
+            list.add(a);
+        }
+        Collections.sort(list);
+        Object[] x1 = list.toArray();
+        int[] a = new int[x1.length];
+        for (int i = 0; i < x1.length; i++) {
+            a[i] = (int) x1[i];
+        }
+        return a;
     }
 }
