@@ -24,7 +24,7 @@ public class TestPrintFileName {
 	}
 	
 	public static void main(String[] args) {
-		File dir = new File("F:/行政资料1");
+		File dir = new File("F:/行政资料12");
 		printLev(dir,0);
 	}
 }
